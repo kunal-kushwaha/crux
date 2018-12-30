@@ -1,0 +1,2 @@
+BST is used so that we can add, delete, find an item in logN time.
+

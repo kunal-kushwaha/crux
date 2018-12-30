@@ -1,0 +1,2 @@
+Creating a File object dynamically is the way to go.
+It really isn't that hard to do!

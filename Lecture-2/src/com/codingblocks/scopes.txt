@@ -1,0 +1,12 @@
+Scopes:
+In Java, the two major scopes are those defined by a class and those defined by a method.
+The scope defined by a method begins with its opening curly brace.
+However, if that method has parameters, they too are included within the method’s scope.
+Indeed, the scope rules provide the foundation for encapsulation.
+
+Variables are created when their scope is entered, and destroyed when their scope is left.
+Therefore, variables declared within a method will not hold their values between calls to that method.
+Also, a variable declared within a block will lose its value when the block is left.
+Thus, the lifetime of a variable is confined to its scope.
+Although blocks can be nested, you cannot declare a variable to have the same name as one in an outer scope.
+

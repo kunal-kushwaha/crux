@@ -1,0 +1,65 @@
+You're not explicitly calling toString(), but implicitly you are:
+
+See:
+
+        System.out.println(foo); // foo is a non primitive variable
+System is a class, with a static field out, of type PrintStream.
+So you're calling the println(Object) method of a PrintStream.
+
+It is implemented like this:
+
+public void println(Object x) {
+    String s = String.valueOf(x);
+    synchronized (this) {
+        print(s);
+        newLine();
+    }
+}
+As we see, it's calling the String.valueOf(Object) method. This is implemented as follows:
+
+public static String valueOf(Object obj) {
+    return (obj == null) ? "null" : obj.toString();
+}
+And here you see, that toString() is called.
+We can override toString() to print it in a specific way.
+
+
+For Arrays:
+        System.out.println(Arrays.toString(humans));
+NOW:
+Arrays.toString(humans) is String
+We have a toString() in Human class which tells us how a human object is converted into String i.e. age + " -> " + name
+(age & name are variables of human class).
+
+First it will call :
+public static String toString(Object[] a) {
+        if (a == null)
+            return "null";
+
+        int iMax = a.length - 1;
+        if (iMax == -1)
+            return "[]";
+
+        StringBuilder b = new StringBuilder();
+        b.append('[');
+        for (int i = 0; ; i++) {
+            b.append(String.valueOf(a[i]));
+            if (i == iMax)
+                return b.append(']').toString();
+            b.append(", ");
+        }
+    }
+
+Then it will call :  b.append(String.valueOf(a[i])); after adding [ .
+valueOf will call toString() of object i.e. toString() of Human i.e. it will append age + " -> " + name.
+
+Before in hashmap when we created toString() it called :
+public void println(Object x) {
+        String s = String.valueOf(x);
+        synchronized (this) {
+            print(s);
+            newLine();
+        }
+    }
+AND String.valueOf(x); called toString(0 of hashmap class which return the entire String of hashmap. (not like in human
+class above where it just returns how 2 variables must be added in between).

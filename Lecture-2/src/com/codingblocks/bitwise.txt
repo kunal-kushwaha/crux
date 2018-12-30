@@ -1,0 +1,14 @@
+The Bitwise Operators:
+
+Java defines several bitwise operators that can be applied to the integer types: long, int, short, char, and byte.
+These operators act upon the individual bits of their operands.
+
+Java uses an encoding known as two’s complement, which means that negative numbers are represented by inverting
+(changing 1’s to 0’s and vice versa) all of the bits in a value, then adding 1 to the result.
+For example, –42 is represented by inverting all of the bits in 42, or 00101010, which yields 11010101, then adding 1,
+which results in 11010110, or –42. To decode a negative number, first invert all of the bits, then add 1. For example,
+–42, or 11010110 inverted, yields 00101001, or 41, so when you add 1 you get 42.s
+The reason Java (and most other computer languages) uses two’s complement is easy to see when you consider the issue of
+zero crossing. Assuming a byte value, zero is represented by 00000000. In one’s complement, simply inverting all of the
+bits creates 11111111, which creates negative zero.
+

@@ -1,0 +1,7 @@
+10 true 20 true 15 false false true 13 false false true 12 false false
+20 true 11 true 12 true 13 false false true 14 false false true 15 false false true 16 true 17 false false true 18 false false
+20 true 11 true 12 true 13 false false true 14 false false true 15 false false true 16 true 17 false false true 18 true 11 true 12 true 13 false false true 14 false false true 15 false false true 16 true 17 false false true 18 false false
+
+20 true 11 true 12 true 13 false false true 14 false false true 15 false false true 16 false false
+
+10 true 20 true 15 false false false true 12 false false

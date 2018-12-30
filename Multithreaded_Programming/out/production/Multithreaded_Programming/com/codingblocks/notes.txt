@@ -1,0 +1,25 @@
+A multithreaded program contains two or more parts that can run concurrently.
+Each part of such a program is called a thread, and each thread defines a separate path of execution.
+Thus, multithreading is a specialized form of multitasking.
+
+However, there are two distinct types of multitasking:
+-Process-based multitasking is the feature that allows your computer to run two or more programs concurrently.
+For example, process- based multitasking enables you to run the Java compiler at the same time that you are using a
+text editor or visiting a web site.
+In process-based multitasking, a program is the smallest unit of code that can be dispatched by the scheduler.
+-In a thread-based multitasking environment, the thread is the smallest unit of dispatchable code.
+This means that a single program can perform two or more tasks simultaneously.
+For instance, a text editor can format text at the same time that it is printing, as long as these two actions are
+being performed by two separate threads.
+
+Multithreading enables you to write efficient programs that make maximum use of the processing power available in the system.
+One important way multithreading achieves this is by keeping idle time to a minimum.
+
+
+
+
+
+
+
+
+

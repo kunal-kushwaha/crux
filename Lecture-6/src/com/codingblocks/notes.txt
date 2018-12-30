@@ -1,0 +1,115 @@
+When a method calls itself, new local variables and parameters are allocated storage on the stack, and the method code
+is executed with these new variables from the start. As each recursive call returns, the old local variables and
+parameters are removed from the stack, and execution resumes at the point of the call inside the method.
+Recursive methods could be said to “telescope” out and back.
+The main advantage to recursive methods is that they can be used to create clearer and simpler versions of several
+algorithms than can their iterative relatives.
+
+A function fun is called direct recursive if it calls the same function fun. A function fun is called indirect recursive
+if it calls another function say fun_new and fun_new calls fun directly or indirectly.
+
+x^n for recursion in homework
+
+A recursive function is tail recursive when recursive call is the last thing executed by the function.
+
+// An example of tail recursive function
+void print(int n){
+    if (n < 0)
+        return;
+
+    System.out.println(n + " ");
+
+    // The last executed statement is recursive call
+    print(n-1);
+}
+
+The tail recursive functions considered better than non tail recursive functions as tail-recursion can be optimized by
+compiler.The idea used by compilers to optimize tail-recursive functions is simple, since the recursive call is the last
+statement,there is nothing left to do in the current function,so saving the current function’s stack frame is of no use.
+
+// Above code after tail call elimination
+void print(int n){
+start:
+    if (n < 0)
+       return;
+    System.out.println(n + " ");
+
+    // Update parameters of recursive call
+    // and replace recursive call with goto
+    n = n-1
+    goto start;
+}
+
+// Same code self-written
+public static void print(int n){
+
+    start: while(n > 0){
+        if(n == 0){
+            return;
+        }
+        System.out.println(n);
+
+        n = n - 1;
+        continue start;
+    }
+}
+
+Therefore job for compilers is to identify tail recursion, add a label at the beginning and update parameter(s) at the
+end followed by adding last goto statement.
+
+NOTE: QuickSort is also tail recursive (Note that MergeSort is not tail recursive, this is also one of the reason why
+QuickSort performs better).
+
+
+EXAMPLE:
+
+
+class GFG {
+
+    // A NON-tail-recursive function.
+    // The function is not tail
+    // recursive because the value
+    // returned by fact(n-1) is used
+    // in fact(n) and call to fact(n-1)
+    // is not the last thing done by
+    // fact(n)
+    static int fact(int n)
+    {
+        if (n == 0) return 1;
+
+        return n*fact(n-1);
+    }
+
+    // Driver program
+    public static void main(String[] args)
+    {
+        System.out.println(fact(5));
+    }
+}
+
+// Java Code for Tail Recursion
+class GFG {
+
+    // A tail recursive function
+    // to calculate factorial
+    static int factTR(int n, int a)
+    {
+        if (n == 0)
+            return a;
+
+        return factTR(n - 1, n * a);
+    }
+
+    // A wrapper over factTR
+    static int fact(int n)
+    {
+        return factTR(n, 1);
+    }
+
+    // Driver code
+    static public void main (String[] args)
+    {
+        System.out.println(fact(5));
+    }
+}
+

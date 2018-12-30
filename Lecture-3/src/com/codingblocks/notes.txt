@@ -1,0 +1,105 @@
+Search Git scm and download it (pre installed on mac)
+
+Primitive Datatype: Cannot be broken more.
+Ex: Integer (has 4 types) -> byte (1) < short (2) < int (4 byte) < long (8)
+Float is of two types: float(4) < double(8)
+
+Java does not give a logical address instead it gives a reference to that address.
+
+In ram, it stores data which is larger after storing smaller value
+so that when we compress our data we have the larger data with us.
+
+
+Using break to Exit a Loop:
+When a break statement is encountered inside a loop, the loop is terminated and program control resumes at the next
+statement following the loop. When used inside a set of nested loops, the break statement will only break out of the
+innermost loop.
+Here are two other points to remember about break:
+First, more than one break statement may appear in a loop. However, be careful.
+Too many break statements have the tendency to destructure your code. Second, the break that terminates a switch
+statement affects only that switch statement and not any enclosing loops.
+
+
+Using break as a Form of Goto:
+The goto statement can be used to jump from anywhere to anywhere within a function.
+Java does not have a goto statement because it provides a way to branch in an arbitrary and unstructured manner.
+This usually makes goto-ridden code hard to understand and hard to maintain.
+It also prohibits certain compiler optimizations.
+By using this form of break, you can, for example, break out of one or more blocks of code.
+These blocks need not be part of a loop or a switch. They can be any block. Further, you can specify precisely where
+execution will resume, because this form of break works with a label.
+The general form of the labeled break statement is shown here:
+break label;
+Most often, label is the name of a label that identifies a block of code.
+When this form of break executes, control is transferred out of the named block.
+The labeled block must enclose the break statement, but it does not need to be the immediately enclosing block.
+This means, for example, that you can use a labeled break statement to exit from a set of nested blocks.
+But you cannot use break to transfer control out of a block that does not enclose the break statement.
+To name a block, put a label at the start of it. A label is any valid Java identifier followed by a colon.
+
+class Break {
+  public static void main(String args[]) {
+    boolean t = true;
+    first: {
+      second: {
+        third: {
+          System.out.println("Before the break.");
+          if(t) break second; // break out of second block
+          System.out.println("This won't execute");
+        }
+        System.out.println("This won't execute");
+      }
+      System.out.println("This is after second block.");
+    }
+  }
+}
+Running this program generates the following output:
+    Before the break.
+    This is after second block.
+
+
+Using continue:
+In while and do-while loops, a continue statement causes control to be transferred directly to the conditional
+expression that controls the loop. In a for loop, control goes first to the iteration portion of the for statement
+and then to the conditional expression.
+
+
+// Demonstrate continue.
+class Continue {
+public static void main(String args[]) {
+   for(int i=0; i<10; i++) {
+      System.out.print(i + " ");
+      if (i%2 == 0) continue;
+      System.out.println("");
+        }
+    }
+}
+This code uses the % operator to check if i is even. If it is, the loop continues without printing a newline.
+Here is the output from this program:
+0 1
+2 3
+4 5
+6 7
+8 9
+
+return
+The return statement is used to explicitly return from a method.
+That is, it causes program control to transfer back to the caller of the method.
+
+
+In general, there are two ways that a computer language can pass an argument to a subroutine.
+The first way is call-by-value:
+This approach copies the value of an argument into the formal parameter of the subroutine.
+When you pass a primitive type to a method, it is passed by value. Thus, a copy of the argument is made,
+and what occurs to the parameter that receives the argument has no effect outside the method.
+
+When you pass an object to a method, the situation changes dramatically, because objects are passed by what
+is effectively call-by-reference.
+Keep in mind that when you create a variable of a class type, you are only creating a reference to an object.
+Thus, when you pass this reference to a method, the parameter that receives it will refer to the same object as that
+referred to by the argument.
+This effectively means that objects act as if they are passed to methods by use of call-by-reference.
+
+When an object reference is passed to a method, the reference itself is passed by use of call-by-value.
+However, since the value being passed refers to an object, the copy of that value will still refer to the same object
+that its corresponding argument does.

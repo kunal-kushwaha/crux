@@ -1,0 +1,69 @@
+variable-length arguments:
+A method that takes a variable number of arguments is called a variable-arity method, or simply a varargs method.
+A variable-length argument is specified by three periods (...)
+
+ static void vaTest(int ... v) {
+
+This syntax tells the compiler that vaTest( ) can be called with zero or more arguments.
+As a result, v is implicitly declared as an array of type int[ ].
+
+// Demonstrate variable-length arguments.
+class VarArgs {
+        // vaTest() now uses a vararg.
+        static void vaTest(int ... v) {
+          System.out.print("Number of args: " + v.length +
+                          " Contents: ");
+         for(int x : v)
+           System.out.print(x + " ");
+         System.out.println();
+     }
+     public static void main(String args[])
+     {
+        // Notice how vaTest() can be called with a
+        // variable number of arguments.
+        vaTest(10);      // 1 arg
+        vaTest(1, 2, 3); // 3 args
+        vaTest();        // no args
+     }
+}
+
+OUTPUT:
+Number of args: 1 Contents: 10
+Number of args: 3 Contents: 1 2 3
+Number of args: 0 Contents:
+
+
+A method can have “normal” parameters along with a variable-length parameter.
+However, the variable-length parameter must be the last parameter declared by the method.
+For example, this method declaration is perfectly acceptable:
+
+int doIt(int a, int b, double c, int ... vals) {
+
+There is one more restriction to be aware of: there must be only one varargs parameter.
+For example, this declaration is also invalid:
+
+int doIt(int a, int b, double c, int ... vals, double ... morevals) { // Error!
+
+varargs overloading:
+
+First, the types of its vararg parameter can differ. This is the case for vaTest(int ...) and vaTest(boolean ...).
+Remember, the ... causes the parameter to be treated as an array of the specified type. Therefore, just as you can
+overload methods by using different types of array parameters, you can overload vararg methods by using different types
+of varargs. In this case, Java uses the type difference to determine which overloaded method to call.
+The second way to overload a varargs method is to add one or more normal parameters. This is what was done with
+vaTest(String, int ...). In this case, Java uses both the number of arguments and the type of the arguments to
+determine which method to call.
+
+Varargs and Ambiguity:
+
+For example we have:
+static void vaTest(int ... v) &  static void vaTest(boolean ... v)
+
+Calling:
+vaTest(1, 2, 3); // OK
+vaTest(true, false, false); // OK
+vaTest(); // Error: Ambiguous!
+
+Because the vararg parameter can be empty, this call could be translated into a call to vaTest(int ...) or
+vaTest(boolean ...). Both are equally valid. Thus, the call is inherently ambiguous.
+

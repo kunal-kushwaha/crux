@@ -1,0 +1,74 @@
+Why Lambdas?
+Enables functional programming.
+Readable and concise code.
+Easier-to-use APIs and libraries
+Enables support for parallel processing
+
+Functional vs OOPS:
+Functional programming helps write more readable code, which is easier to read.
+
+Passing behaviour in OOP:
+
+Everything is an object.
+All code blocks are "associated" with classes and objects.
+
+we need to pass in an action rather than a class that contains that action
+We can do this using lambdas. Lambda functions do not belong to a class.
+
+functions as values:
+Inline values example: String name = "Kunal Kushwaha";
+
+can we assign a block of code to a variable as a value?
+Note: the value is not the execution of the block of code, it is the block of code itself
+Ex: aBlockOfCode = { ..... }
+
+We need to do this:
+aBlockOfCode = public void perform(){
+                System.out.println("Hello world");
+           }
+
+having public/private etc. makes sense when a method is a part of a class.
+but here function exists in isolation, i.e. anyone who has the variable can call the function
+
+To access it, we need the name we referred it to i.e. aBlockOfCode, hence we don't need "perform"
+
+we don't need to provide return type, because java compiler is smart enough to do that.
+
+the code becomes:
+
+aBlockOfCode = () -> {
+    System.out.println("Hello World");
+};
+
+// we can pass inline lambda expressions as arguments
+
+doubleNumberFunction = (int a) -> { return a * 2 };
+// It is invalid to specify the return keyword when you have a one liner lambda expression without {}
+
+// OR
+doubleNumberFunction = (int a) -> a * 2;  // for just one line, java returns the value without writing return
+
+addFunction = (int a, int b) -> a + b;
+
+safeDivide = (int a, int b) -> {
+    if(b == 0) return 0;
+    return a / b;
+};
+
+stringLengthCount = (String s) -> s.length();
+
+NOTE: When you are using an interface to declare a lambda expression, that interface should only have one method
+and should be having the same signature.
+
+Difference between :
+     (1) Greeting helloworldgreeting = new HelloWorldGreeting();
+&    (2) Greeting lambdaGreeting = () -> System.out.println("Hello World");
+
+In (1), helloworldgreeting is an instance of HelloWorldGreeting() object, an implementation.
+
+lambdaGreeting.perform() prints "Hello World"
+This is how you execute lambda functions. By calling the interface method on it, just as if it were an instance of a class!
+In a way, we are implementing an interface by just implementing a function and not implementing a class.
+Thats the main difference. in (1) we created a class and implemented the behaviour in that class.
+In (2), we are not creating a class, we are creating a function i.e. a lambda expression.
+

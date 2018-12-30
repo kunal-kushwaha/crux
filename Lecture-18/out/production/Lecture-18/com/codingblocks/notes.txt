@@ -1,0 +1,7 @@
+Heap is used so that we can keep the items sorted even if we add a new item.
+When we add, we can add in logN complexity.
+We can remove minimum value in heap in constant time.
+
+Creating sorted array from heap is always nlogn or more.
+
+
