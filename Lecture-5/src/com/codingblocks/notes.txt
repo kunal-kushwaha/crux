@@ -87,3 +87,8 @@ other object. There is no sharing of storage in heap even if two String objects 
 Since string literals with the same contents share storage in the common pool, Java's String is designed to be immutable.
 That is, once a String is constructed, its contents cannot be modified. Otherwise, the other String references sharing
 the same storage location will be affected by the change, which can be unpredictable and therefore is undesirable.
+
+Performance :
+Bad performance, if in a for loop we keep adding to a String, it is actually creating new string objects and copying the
+old one then appending the new changes, O(N^2) for N iterations
+StringBuilder makes changes at the original location in O(N) for N iterations
