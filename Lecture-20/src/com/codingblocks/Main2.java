@@ -31,8 +31,9 @@ public class Main2 {
 
         HashMap<String, Boolean> map = new HashMap<>();
 
-        System.out.println(graph.hasPath("A","H", map));
+//        System.out.println(graph.hasPath("A","H", map));
 
+        System.out.println(graph.dfs("A", "G"));
     }
 
 

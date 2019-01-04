@@ -2,6 +2,7 @@ package com.codingblocks;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedList;
 
 public class Graph {
 
@@ -120,6 +121,111 @@ public class Graph {
 
             if(!visited.containsKey(key) && hasPath(key, second, visited)){
                 return true;
+            }
+        }
+
+        return false;
+    }
+
+    private class Pair{
+        String vname;
+        String psf; // path so far
+    }
+    public boolean bfs(String source, String destination){
+
+        HashMap<String, Boolean> processed = new HashMap<>();
+
+        LinkedList<Pair> queue = new LinkedList<>();
+
+        // create a new pair
+        Pair sp = new Pair();   // staring pair
+        sp.vname = source;
+        sp.psf = source;
+
+        // put the new pair in queue
+
+        queue.addLast(sp);
+
+        while(!queue.isEmpty()){
+            Pair rp = queue.removeFirst();  // removed pair
+
+            if(processed.containsKey(rp.vname)){
+                continue;
+            }
+
+            processed.put(rp.vname, true);
+
+            if(containsEdge(rp.vname, destination)){
+                System.out.println(rp.psf + destination);
+                return true;
+            }
+
+            // neighbours
+
+            Vertex rpvtx = vtces.get(rp.vname);
+            ArrayList<String> nbrs = new ArrayList<>(rpvtx.nbrs.keySet());
+
+            for(String nbr : nbrs){
+
+                // process only unprocessed neighbours
+                if(!processed.containsKey(nbr)){
+                    Pair np = new Pair();
+                    np.vname = nbr;
+                    np.psf = rp.psf + nbr;
+
+                    queue.addLast(np);
+                }
+            }
+        }
+
+        return false;
+    }
+
+    // just change queue in bfs to stack and change addLast to addFirst
+    public boolean dfs(String source, String destination){
+
+        HashMap<String, Boolean> processed = new HashMap<>();
+
+        LinkedList<Pair> stack = new LinkedList<>();
+
+        // create a new pair
+        Pair sp = new Pair();   // staring pair
+        sp.vname = source;
+        sp.psf = source;
+
+        // put the new pair in queue
+
+        stack.addFirst(sp);
+
+        while(!stack.isEmpty()){
+            Pair rp = stack.removeFirst();  // removed pair
+
+            if(processed.containsKey(rp.vname)){
+                continue;
+            }
+
+            processed.put(rp.vname, true);
+
+            if(containsEdge(rp.vname, destination)){
+                System.out.println(rp.psf + destination);
+                return true;
+            }
+
+            // neighbours
+
+            Vertex rpvtx = vtces.get(rp.vname);
+            ArrayList<String> nbrs = new ArrayList<>(rpvtx.nbrs.keySet());
+
+            for(String nbr : nbrs){
+
+                // process only unprocessed neighbours
+                if(!processed.containsKey(nbr)){
+                    Pair np = new Pair();
+                    np.vname = nbr;
+                    np.psf = rp.psf + nbr;
+
+                    stack.addFirst(np);
+                }
             }
         }
 
