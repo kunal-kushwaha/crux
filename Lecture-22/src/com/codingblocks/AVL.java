@@ -15,8 +15,6 @@ public class AVL {
             this.insert(nums[i]);
         }
     }
-
-
     public void populateWithSorted(int[] nums){
         populateWithSorted(nums, 0, nums.length);
     }
@@ -27,7 +25,6 @@ public class AVL {
 
         return sortedList(this.root, nodes);
     }
-
     private LinkedList<Node> sortedList(Node node, LinkedList<Node> nodes) {
 
         if (node == null){
@@ -46,7 +43,6 @@ public class AVL {
     public void between(int start, int end){
         between(start, end, this.root);
     }
-
     private void between(int start, int end, Node node) {
 
         if (node == null){
@@ -87,7 +83,6 @@ public class AVL {
     public void display(){
         display(this.root, "Root node : ");
     }
-
     private void display(Node node, String details) {
         if (node == null){
             return;
@@ -102,7 +97,6 @@ public class AVL {
     public boolean balance(){
         return balance(this.root);
     }
-
     private boolean balance(Node node) {
         if (node == null){
             return true;
@@ -209,7 +203,6 @@ public class AVL {
     public int height(){
         return height(root);
     }
-
     private int height(Node node){
         if (node == null){
             return -1;
@@ -217,7 +210,6 @@ public class AVL {
 
         return node.height;
     }
-
 
     public class Node {
         private int value;

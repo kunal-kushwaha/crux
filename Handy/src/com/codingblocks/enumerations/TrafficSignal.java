@@ -3,7 +3,7 @@ package com.codingblocks.enumerations;
 public class TrafficSignal {
 
     enum Signal{
-        red("WAIT"), yellow("WAIT"), green("GO");
+        red("STOP"), yellow("WAIT"), green("GO");
 
         String action;
 

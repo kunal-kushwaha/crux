@@ -34,6 +34,8 @@ public class Main2 {
 //        System.out.println(graph.hasPath("A","H", map));
 
         System.out.println(graph.dfs("A", "G"));
+
+        System.out.println(graph.gCC());
     }
 
 

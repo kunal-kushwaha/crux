@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5de7ccc0-50ee-405f-8c05-5ed47287de35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +47,7 @@
     <session id="-748455422">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.20" value="1" />
@@ -105,12 +97,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/AdjacencyListGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-500">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="499">
+              <caret line="116" column="25" lean-forward="true" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
               <folding>
                 <element signature="method#DFS#0;class#AdjacencyListGraph#0" />
                 <element signature="method#BFS#0;class#AdjacencyListGraph#0" />
-                <element signature="method#BFT#0;class#AdjacencyListGraph#0" />
                 <element signature="method#connectedComponentsLL#0;class#AdjacencyListGraph#0" />
                 <element signature="method#bipartite#0;class#AdjacencyListGraph#0" />
                 <element signature="method#ShortPath#0;class#AdjacencyListGraph#0" />
@@ -324,12 +315,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/AdjacencyListGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="499">
+          <caret line="116" column="25" lean-forward="true" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
           <folding>
             <element signature="method#DFS#0;class#AdjacencyListGraph#0" />
             <element signature="method#BFS#0;class#AdjacencyListGraph#0" />
-            <element signature="method#BFT#0;class#AdjacencyListGraph#0" />
             <element signature="method#connectedComponentsLL#0;class#AdjacencyListGraph#0" />
             <element signature="method#bipartite#0;class#AdjacencyListGraph#0" />
             <element signature="method#ShortPath#0;class#AdjacencyListGraph#0" />

@@ -3,12 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="84a51025-6b5b-4120-81e5-64bd5de4c705" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/TimeTaken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/TimeTaken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handy/src/com/codingblocks/generics/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/src/com/codingblocks/generics/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LambdaExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LambdaExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-17/out/production/Lecture-17/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/out/production/Lecture-17/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-17/src/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/src/com/codingblocks/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-5/src/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-5/src/com/codingblocks/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,14 +78,16 @@
     <session id="1058999040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -105,15 +120,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Heap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="291">
+              <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
               <folding>
                 <element signature="e#1602#1603#0" expanded="true" />
                 <element signature="e#1640#1641#0" expanded="true" />
-                <element signature="e#1674#1675#0" expanded="true" />
                 <element signature="e#1710#1711#0" expanded="true" />
                 <element signature="e#1745#1746#0" expanded="true" />
                 <element signature="e#1781#1782#0" expanded="true" />
@@ -125,17 +139,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
+            <state relative-caret-position="1173">
               <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -173,7 +187,9 @@
     <option name="width" value="1280" />
     <option name="height" value="730" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -202,8 +218,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,9 +336,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23572594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24551387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,14 +530,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Etc.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Heap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="291">
+          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
           <folding>
             <element signature="e#1602#1603#0" expanded="true" />
             <element signature="e#1640#1641#0" expanded="true" />
-            <element signature="e#1674#1675#0" expanded="true" />
             <element signature="e#1710#1711#0" expanded="true" />
             <element signature="e#1745#1746#0" expanded="true" />
             <element signature="e#1781#1782#0" expanded="true" />
@@ -530,16 +545,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Etc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
+        <state relative-caret-position="1173">
           <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
         </state>
       </provider>
@@ -547,7 +555,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

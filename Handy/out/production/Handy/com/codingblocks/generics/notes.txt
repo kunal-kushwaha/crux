@@ -9,14 +9,13 @@ In the class declaration directly after the class name you will put a pair of an
 as chevrons.
 The variable or variables contained inside of the chevrons cannot ever represent primitive data types.
 
-
 ERASURE:
 When your Java code is compiled, all generic type information is removed (erased).
 This means replacing type parameters with their bound type, which is Object if no explicit bound is specified,
 and then applying the appropriate casts (as determined by the type arguments) to maintain type compatibility with the
 types specified by the type arguments. The compiler also enforces this type compatibility. This approach to generics
 means that no type parameters exist at run time. They are simply a source-code mechanism.
-
+Determination of the type happens at runtime.
 
 Generics Work Only with Reference Types. You cannot use a primitive type, such as int or char.
 
@@ -52,7 +51,6 @@ Here is its general form:
 <? super subclass>
 
 In this case, only classes that are superclasses of subclass are acceptable arguments.
-
 
 Generic Methods :
 

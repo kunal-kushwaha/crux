@@ -73,6 +73,7 @@ Static INTERFACE METHODS are not inherited by either an implementing class or a 
 NOTE:
 public class Static {
 
+    // class Test  // ERROR
     static class Test{
         String name;
 
