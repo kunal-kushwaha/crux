@@ -7,7 +7,7 @@ public class Sorting {
     public static void main(String[] args) {
         int[] nums = {3, 2, 1, 9, 6, 4};
 
-        quickSort(nums, 0, nums.length - 1);
+//        quickSort(nums, 0, nums.length - 1);
 
         System.out.println(Arrays.toString(nums));
 
@@ -24,6 +24,42 @@ public class Sorting {
         int[] second = mergeSort(Arrays.copyOfRange(nums, mid, nums.length));
 
         return merge(first, second);
+    }
+
+    private static int[] merge(int[] first, int[] second) {
+
+        int[] mix = new int[first.length + second.length];
+
+        int i = 0;
+        int j = 0;
+        int k = 0;
+
+        while (i < first.length && j < second.length){
+            if (first[i] < second[j]){
+                mix[k] = first[i]; // move smaller item to mix
+                i++; // inc index of first
+                k++; // inc index at mix
+            } else {
+                mix[k] = second[j]; // move smaller item to mix
+                j++; // inc index of second
+                k++; // inc index at mix
+            }
+
+        }
+
+        while (i < first.length){
+            mix[k] = first[i];
+            i++;
+            k++;
+        }
+
+        while (j < second.length){
+            mix[k] = second[j];
+            j++;
+            k++;
+        }
+
+        return mix;
     }
 
     public static void mergeSortInPlace(int[] nums, int start, int end){
@@ -65,42 +101,6 @@ public class Sorting {
         for (int l = 0; l < mix.length; l++) {
             nums[start + l] = mix[l];
         }
-    }
-
-    private static int[] merge(int[] first, int[] second) {
-
-        int[] mix = new int[first.length + second.length];
-
-        int i = 0;
-        int j = 0;
-        int k = 0;
-
-        while (i < first.length && j < second.length){
-            if (first[i] < second[j]){
-                mix[k] = first[i]; // move smaller item to mix
-                i++; // inc index of first
-                k++; // inc index at mix
-            } else {
-                mix[k] = second[j]; // move smaller item to mix
-                j++; // inc index of second
-                k++; // inc index at mix
-            }
-
-        }
-
-        while (i < first.length){
-            mix[k] = first[i];
-            i++;
-            k++;
-        }
-
-        while (j < second.length){
-            mix[k] = second[j];
-            j++;
-            k++;
-        }
-
-        return mix;
     }
 
     public static void quickSort(int[] nums, int low, int hi){

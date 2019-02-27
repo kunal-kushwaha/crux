@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f04e98-58a8-4a58-95b8-55e3a133c051" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/out/production/Lecture-10/com/codingblocks/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/out/production/Lecture-10/com/codingblocks/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,10 +94,10 @@
     <session id="-2061968174">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -128,7 +128,7 @@
     <favorites_list name="Lecture-1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -183,7 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,8 +206,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +340,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32952693" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.23898858" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23898858" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.24959217" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32962137" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5008157" side_tool="true" weight="0.39805827" />

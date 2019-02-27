@@ -35,6 +35,7 @@ public class Main {
 
 //        graph.connectedComponents();
 
+        graph.BFT();
         System.out.println(graph.bipartite());
 //        graph.bipartite();
     }
