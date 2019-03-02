@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740af47b-1dc9-473c-a427-a0717f91686f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/Datatypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/Datatypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/enumerations/TrafficSignal$Signal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/enumerations/TrafficSignal$Signal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/generics/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Handy/com/codingblocks/generics/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/enumerations/TrafficSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/enumerations/TrafficSignal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/generics/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/generics/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LambdaExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LambdaExpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-17/out/production/Lecture-17/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/out/production/Lecture-17/com/codingblocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-17/src/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-17/src/com/codingblocks/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-22/src/com/codingblocks/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-22/src/com/codingblocks/AVL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,11 +59,14 @@
     <session id="969222273">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
@@ -98,13 +76,13 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.53" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="260" />
+          <entry key="java" value="263" />
           <entry key="png" value="1" />
           <entry key="txt" value="36" />
         </counts>
@@ -113,32 +91,41 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="260" />
+          <entry key="JAVA" value="263" />
           <entry key="PLAIN_TEXT" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="java" value="6946" />
+          <entry key="java" value="6953" />
           <entry key="txt" value="2193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6946" />
+          <entry key="JAVA" value="6953" />
           <entry key="PLAIN_TEXT" value="2231" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/BufferedWriterClass.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/FileReaderClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="184">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/InputStreamReaderClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -169,7 +156,6 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/BRReadLines.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/BRRead.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/BufferedReaderClass.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/io/FileReaderClass.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/Example.txt" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/FileWriterClass.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/io/Sample.txt" />
@@ -211,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/enumerations/Comparing.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/enumerations/TrafficSignal.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/enumerations/notes.txt" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/io/FileReaderClass.java" />
       </list>
     </option>
   </component>
@@ -221,10 +208,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="38" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="303" />
+    <option name="width" value="1280" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -234,8 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,48 +244,20 @@
               <item name="Handy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="enumerations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Handy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Handy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Handy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Handy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
               <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Handy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Handy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="javaLibrary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Handy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Handy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="javaLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="compareTo_toString.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547143749150" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551377928478" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -435,10 +392,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24383709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,21 +455,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/Demo.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/exceptionHandling/Custom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -802,8 +744,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/BufferedWriterClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="230">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="193" column="19" selection-start-line="193" selection-start-column="19" selection-end-line="193" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/FileReaderClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/io/InputStreamReaderClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
