@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e36b86-3bd2-4c09-94b0-c12fc15ef06c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/ArrayListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/ArrayListExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/Parenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/ReturnExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-7/com/codingblocks/ReturnExamples.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1178">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="140">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Streams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -35,6 +55,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -50,9 +75,9 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/SplitArray.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/ReturnExamples.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/ArrayListExample.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
       </list>
     </option>
   </component>
@@ -61,13 +86,14 @@
     <option name="width" value="1280" />
     <option name="height" value="731" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,6 +116,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -97,9 +124,9 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/SicParvisMagna/OneDrive/Documents/JAVA Programs/IntelliJ IDEA/CRUX/Lecture-7/src/com/codingblocks/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539163331965" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552230536204" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -118,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListExample">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.ArrayListExample" />
       <module name="Lecture-7" />
@@ -193,8 +220,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.SplitArray" />
         <item itemvalue="Application.Parenthesis" />
         <item itemvalue="Application.Streams" />
@@ -213,28 +240,34 @@
       <updated>1537001298673</updated>
       <workItem from="1551544362288" duration="367000" />
       <workItem from="1551545144298" duration="8000" />
+      <workItem from="1551695173004" duration="14000" />
+      <workItem from="1551707842945" duration="19000" />
+      <workItem from="1552063323510" duration="204000" />
+      <workItem from="1552205103637" duration="129000" />
+      <workItem from="1552230376179" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375000" />
+    <option name="totallyTimeSpent" value="897000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19709209" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21324718" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32628062" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32394367" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -291,18 +324,10 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/TowerOfHanoi.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/SplitArray.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/ReturnExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="135" column="23" lean-forward="true" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -320,10 +345,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1178">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="140">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
