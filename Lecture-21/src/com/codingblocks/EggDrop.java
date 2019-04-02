@@ -1,11 +1,23 @@
 package com.codingblocks;
 
+/*
+    author: kunal-kushwaha
+    date: 25/03/2019
+*/
+
+import java.util.Scanner;
+
 public class EggDrop {
 
     public static void main(String[] args) {
 
-        int egg = 7;
-        int floor = 100;
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter Number of Eggs : ");
+        int egg = input.nextInt();
+        System.out.println("Enter Number of Floors : ");
+        int floor = input.nextInt();
+
         int[][] mem = new int[egg + 1][floor + 1];
 
         System.out.println(eggDropItrDP(egg,floor, mem));
@@ -81,3 +93,14 @@ public class EggDrop {
     }
 
 }
+
+/*
+OUTPUT :
+
+    Enter Number of Eggs :
+    5
+    Enter Number of Floors :
+    100
+    7
+
+*/

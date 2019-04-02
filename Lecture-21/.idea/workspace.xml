@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8259fac9-ab7d-49c9-b8dd-e367bbac4e3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/out/production/Lecture-10/com/codingblocks/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/out/production/Lecture-10/com/codingblocks/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/car/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/car/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/car/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/car/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/interface.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/out/production/Lecture-13/com/codingblocks/interface.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/src/com/codingblocks/car/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/src/com/codingblocks/car/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/src/com/codingblocks/interface.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/src/com/codingblocks/interface.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-19/out/production/Lecture-19/com/codingblocks/self/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/out/production/Lecture-19/com/codingblocks/self/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-19/src/com/codingblocks/self/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-19/src/com/codingblocks/self/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Demo$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/out/production/Lecture-20/com/codingblocks/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-20/src/com/codingblocks/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-7/out/production/Lecture-7/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-7/out/production/Lecture-7/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-7/src/com/codingblocks/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-7/src/com/codingblocks/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,71 +31,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-932938909">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="2132" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="2132" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="8" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="629764903">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="140">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/EggDrop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+            <state relative-caret-position="300">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -109,15 +68,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/EggDropDP.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Dempo.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/KnapSack.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="985" />
     <option name="height" value="731" />
   </component>
   <component name="ProjectView">
@@ -125,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,17 +107,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542548617166" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553498139894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codingblocks" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,23 +210,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541839297028</updated>
+      <workItem from="1553497649443" duration="423000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="423000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="23" width="985" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22512235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29480383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32804233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32707354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,6 +241,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,8 +253,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/com/sun/java/accessibility/util/EventQueueMonitorItem.class">
@@ -308,8 +281,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Dempo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/KnapSack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="53">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
           <folding>
             <element signature="method#knapsackDP#0;class#KnapSack#0" />
           </folding>
@@ -318,15 +291,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/EggDrop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        <state relative-caret-position="300">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>

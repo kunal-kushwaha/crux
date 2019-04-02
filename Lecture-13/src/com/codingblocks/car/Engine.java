@@ -7,4 +7,10 @@ public interface Engine {
     void stop();
 
     void acc();
+
+    static void display(){
+        //
+    }
+    static final int a = 10;
+
 }

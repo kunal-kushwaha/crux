@@ -8,7 +8,7 @@ public class Heap<T extends Comparable<T>>{
     private ArrayList<T> list;
 
     // to maintain index of elements in heap so that we can get index of an element in O(1) and upheap it when we change
-    // the data in heap in Graph.java
+    // the data in heap in AdjacencyMapGraph.java
     HashMap<T, Integer> map = new HashMap<>();
 
     public Heap(){
