@@ -64,7 +64,7 @@ b = 12
 Note: main method is static, since it must be accessible for an application to run, before any instantiation takes place.
 
 NOTE: Only nested classes can be static.
-NOTE: Inner class variables/functions cannot be static, they can only be static when they are constants. 
+NOTE: Inner class variables/functions cannot be static, they can only be static when they are constants.
 BUT! Static inner classes can have static variables
 
 You cant override the inherited static methods, as in java overriding takes place by resolving the type of object at

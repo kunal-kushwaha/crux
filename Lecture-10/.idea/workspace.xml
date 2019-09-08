@@ -2,9 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269fe2d6-c117-49ae-a6cf-ba6710ee3a93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-10/com/codingblocks/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-10/com/codingblocks/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/io/InputForCPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/io/InputForCPP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handy/src/com/codingblocks/io/InputForCPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/src/com/codingblocks/io/InputForCPP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Arrays2D/SpiralPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Arrays2D/SpiralPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/MS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/MS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/MagicalStringIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/MagicalStringIT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Microsoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Microsoft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Parenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Parenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/array/MaxSumNoAdjacent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/array/MaxSumNoAdjacent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/dp/UglyNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/dp/UglyNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Diamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/FiboTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/FiboTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/HollowDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/HollowDiamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/LookNSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/LookNSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/MirrorDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/MirrorDiamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/MirrorTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/MirrorTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Pascal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Pascal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Satiya.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/Satiya.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/VCut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/patterns/VCut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalinMIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalinMIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/MagicalString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/MagicalString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/SplitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/recursion/SplitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/stacksNqueues/JumpingFromTowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/stacksNqueues/JumpingFromTowers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Arrays2D/SpiralPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Arrays2D/SpiralPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Questions/src/com/codingblocks/array/MaxSumNoAdjacent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/array/MaxSumNoAdjacent.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,77 +51,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1060525893">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="27" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="13" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.3" value="4" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="30" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="30" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="4330" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="4330" />
-          <entry key="PLAIN_TEXT" value="9" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1661234487">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/LCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+            <state relative-caret-position="421">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -115,16 +98,13 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,18 +123,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Lecture-10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549649549567" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -262,20 +244,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537692311175</updated>
+      <workItem from="1564289826915" duration="166000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24143556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3263328" />
@@ -287,6 +275,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32739422" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,8 +315,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lecture-10.iml">
@@ -341,13 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazePath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
@@ -355,10 +338,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/LCS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1633">
-          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        <state relative-caret-position="421">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>

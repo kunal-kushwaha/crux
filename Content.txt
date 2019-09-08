@@ -7,12 +7,12 @@ Lecture - 7	: Recursion Arrays
 Lecture - 8	: Maze, nKnights, nQueens
 Lecture - 9	: Sieve, Merge Sort, Quick Sort
 Lecture - 10	: Board (count board), Fibonacci, LCS, Maze Path
-Lecture - 11	: Classes (constructors, this, finalize), Singleton, Stack, Queue, 
- 		  Notes : Overloading, Overriding, Static, Inheritance, Access control 
+Lecture - 11	: Classes (constructors, this, finalize), Singleton, Stack, Queue,
+ 		          Notes : Overloading, Overriding, Static, Inheritance, Access control 
 Lecture - 12	: Abstract Classes, Inheritance
 Lecture - 13	: Interface, Packages
 Lecture - 14	: Linked List
-Lecture - 15	: Binary Tree 
+Lecture - 15	: Binary Tree
 Lecture - 16	: BST
 Lecture - 17	: Hashmap
 Lecture - 18	: Bitwise, Heap, Priority Queue
@@ -20,7 +20,3 @@ Lecture - 19	: Adjacency List Graph
 Lecture - 20	: Adjacency Map Graph
 Lecture - 21	: Egg-drop, Knapsack
 Lecture - 22	: AVL, Tries
-
-
-
-

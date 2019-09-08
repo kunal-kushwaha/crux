@@ -1,11 +1,12 @@
 package com.codingblocks.io;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class InputForCPP {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         Scanner s = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         int t = s.nextInt();
@@ -27,5 +28,12 @@ public class InputForCPP {
             System.out.println("Case #" + i + ": " + Integer.valueOf(num1).toString() + " " + Integer.valueOf(num2).toString());
         }
         s.close();
+
+
+        // OR
+        //BufferedReader
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String name = br.readLine();                // Reading input from STDIN
+        System.out.println("Hi, " + name + ".");    // Writing output to STDOUT
     }
 }

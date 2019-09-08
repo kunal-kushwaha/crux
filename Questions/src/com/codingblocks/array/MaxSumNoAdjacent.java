@@ -19,7 +19,7 @@ public class MaxSumNoAdjacent {
 
             ArrayList first = new ArrayList();
             ArrayList second = new ArrayList();
-
+            first.add(nums[0]);
             int inc = nums[0];
             int exc = 0;
             for (int j = 1; j < n; j++) {
@@ -33,9 +33,6 @@ public class MaxSumNoAdjacent {
 
                     second = new ArrayList();
                     second.addAll(firstT);
-//                    second.add(nums[j]);
-
-
                 }else{
                     first = new ArrayList();
                     first.addAll(second);
@@ -46,10 +43,16 @@ public class MaxSumNoAdjacent {
             }
 
             if(inc > exc){
-                System.out.println(first);
+                display(first);
             }else{
-                System.out.println(second);
+                display(second);
             }
         }
+    }
+    public static void display(ArrayList list){
+        for (int i = list.size()-1; i >= 0; i--) {
+            System.out.print(list.get(i));
+        }
+        System.out.println();
     }
 }
