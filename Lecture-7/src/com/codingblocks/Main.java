@@ -58,7 +58,6 @@ public class Main {
 
         int digit = unprocessed.charAt(0) - '0';  // will convert '1' to 1
 
-
         // Example: digit = 2, then loop will go from 3 < 6
         for (int i = (digit-1)*3; i < digit*3; i++) {
             if(i == 26){

@@ -40,6 +40,20 @@ start:
     goto start;
 }
 
+// Same code self-written
+public static void print(int n){
+
+    start: while(n > 0){
+        if(n == 0){
+            return;
+        }
+        System.out.println(n);
+
+        n = n - 1;
+        continue start;
+    }
+}
+
 Therefore job for compilers is to identify tail recursion, add a label at the beginning and update parameter(s) at the
 end followed by adding last goto statement.
 

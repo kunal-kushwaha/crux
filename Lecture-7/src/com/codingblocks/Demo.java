@@ -3,54 +3,52 @@ package com.codingblocks;
 import java.util.*;
 
 public class Demo {
-    private static int rows;
-    private static int cols;
 
     public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+//        String str = s.next();
+//        subseq("", str);
+//        permutation("", str);
+        numsum("", 10);
+    }
 
-        Scanner input = new Scanner(System.in);
-        rows = input.nextInt();
-        cols = input.nextInt();
-        int [][] matrix = new int[rows][cols];
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                matrix[row][col] = input.nextInt();
-            }
+    private static void subseq(String processed, String unprocessed) {
+
+        if(unprocessed.isEmpty()) {
+            System.out.println(processed);
+            return;
+        }
+        char ch = unprocessed.charAt(0);
+        subseq(processed + ch, unprocessed.substring(1));
+        subseq(processed, unprocessed.substring(1));
+    }
+
+    public static void permutation(String p, String up) {
+
+        if(up.isEmpty()) {
+            System.out.println(p);
+            return;
         }
 
-        System.out.println(connectedCell(matrix));
+        char ch = up.charAt(0);
+
+        for (int i = 0; i <= p.length(); i++) {
+            String f = p.substring(0,i);
+            String l = p.substring(i);
+            permutation(f + ch + l, up.substring(1));
+        }
+    }
+
+    public static void numsum(String p, int target) {
+        if(target == 0) {
+            System.out.println(p);
+            return;
+        }
+        for (int i = 1; i <= 6 && i <= target; i++) {
+            numsum(p + i, target-i);
+        }
+
     }
 
 
-    public static int connectedCell(int [][] matrix) {
-        int maxCount = 0;
-
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-
-                if (matrix[row][col] == 1) {
-                    int ans  = dfs(matrix, row, col);
-                    maxCount = Math.max(maxCount, ans);
-                }
-            }
-        }
-        return maxCount;
-    }
-
-    private static int dfs(int [][] matrix, int r, int c) {
-        if (r < 0 || r >= rows || c < 0 || c >= cols || matrix == null || matrix[r][c] == 0) {
-            return 0;
-        }
-
-        matrix[r][c] = 0;
-        int size = 1;
-
-        for (int i = r - 1; i <= r + 1; i++) {
-            for (int j = c - 1; j <= c + 1; j++) {
-                size += dfs(matrix, i, j);
-            }
-        }
-
-        return size;
-    }
 }

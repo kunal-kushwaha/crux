@@ -11,8 +11,8 @@ public class ArrayListExample {
 
 
         // autoboxing
-        Long a = 545463325464l; // a is object
-        Long b = 676423456789747l;
+        Long a = 545463325464L; // a is object
+        Long b = 676423456789747L;
         // OR
 //        Integer a = new Integer(54);
         Long c = a + b;
