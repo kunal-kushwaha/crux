@@ -2,51 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/LL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/out/production/Handy/META-INF/Handy.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/io/InputForCPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/out/production/Handy/com/codingblocks/io/InputForCPP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/src/com/codingblocks/io/InputForCPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/src/com/codingblocks/io/InputForCPP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/overriding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/overriding.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/static.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handy/src/com/codingblocks/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/src/com/codingblocks/Split.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Arrays2D/SpiralPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Arrays2D/SpiralPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/MS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/MS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/MagicalStringIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/MagicalStringIT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Parenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Parenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/array/MaxSumNoAdjacent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/array/MaxSumNoAdjacent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/dp/UglyNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/dp/UglyNo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Diamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/FiboTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/FiboTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/HollowDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/HollowDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/LookNSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/LookNSay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/MirrorDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/MirrorDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/MirrorTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/MirrorTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Pascal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Pascal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Satiya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/Satiya.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/VCut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/patterns/VCut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalinMIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/AllPartitionsPalinMIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/MagicalString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/MagicalString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/SplitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/recursion/SplitArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/stacksNqueues/JumpingFromTowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/stacksNqueues/JumpingFromTowers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/SpiralPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/SpiralPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/array/MaxSumNoAdjacent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/array/MaxSumNoAdjacent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,11 +127,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="114" />
+    <option name="width" value="960" />
+    <option name="height" value="547" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -194,6 +160,13 @@
               <item name="Questions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Questions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,17 +323,17 @@
       <workItem from="1564312542626" duration="34000" />
       <workItem from="1566830748241" duration="4109000" />
       <workItem from="1566990372616" duration="5000" />
+      <workItem from="1570344181926" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21180000" />
+    <option name="totallyTimeSpent" value="21200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18157615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20436187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
