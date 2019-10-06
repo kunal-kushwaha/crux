@@ -1,5 +1,6 @@
 package com.codingblocks;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Split {
@@ -9,7 +10,10 @@ public class Split {
         String str = "Kunal, Rahul, Apoorv, Farhaan";
 
         String[] names = str.split(",");
-
         System.out.println(Arrays.toString(names));
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+
     }
 }
