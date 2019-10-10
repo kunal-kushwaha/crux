@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handy/src/com/codingblocks/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/src/com/codingblocks/Split.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/LL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/MS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Parenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Parenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/RotateString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/MS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/RotateString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/Fibo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,25 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/RotateString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazeRule.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/trees/BinaryDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="306">
+              <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+                <element signature="e#1773#1774#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1486#1487#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,12 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MultiDArray.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Lexo.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/LexoAlpha.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/UglyNo.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/JumpingFromTowers.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main2.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main3.java" />
@@ -115,7 +111,6 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/SpiralPrint.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/StringCount.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Node.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/TestClass.java" />
@@ -124,14 +119,21 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/dp/LongestPalinSubSeq.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/RotateString.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/MazeRule.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/ReplaceHi.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/GFG.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/BinaryDistance.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/trees/BinaryDistance.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="40" />
-    <option name="y" value="-967" />
-    <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -141,8 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +168,14 @@
               <item name="Questions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="divideNconquer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Questions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+              <item name="stacksNqueues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,18 +196,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.codingblocks.dp" />
-      <recent name="com.codingblocks.recursion" />
-      <recent name="com.codingblocks.patterns" />
-      <recent name="com.codingblocks" />
-      <recent name="com.codingblocks.codeLikeItMatters" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.codingblocks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codingblocks/recursion" />
+      <recent name="$PROJECT_DIR$/src/com/codingblocks" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks.stacksNqueues" />
+      <recent name="com.codingblocks.sqrtDecomposition" />
+      <recent name="com.codingblocks.segmentTrees" />
+      <recent name="com.codingblocks.fenwick_bit" />
+      <recent name="com.codingblocks.bitmasking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,13 +226,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateString">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Demo" />
+  <component name="RunManager" selected="Application.BinaryDistance">
+    <configuration name="BinaryDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.trees.BinaryDistance" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.Result" />
+          <option name="PATTERN" value="com.codingblocks.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSumNoAdjacent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.array.MaxSumNoAdjacent" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.GFG" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.array.*" />
+          <option name="PATTERN" value="com.codingblocks.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.RotateString" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Main" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="PATTERN" value="com.codingblocks.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Arrays2D.SpiralPrint" />
+    <configuration name="ReplaceHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.ReplaceHi" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.Arrays2D.*" />
+          <option name="PATTERN" value="com.codingblocks.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Arrays2D.TestClass" />
+    <configuration name="RotatedBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.divideNconquer.RotatedBinarySearch" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.Arrays2D.*" />
+          <option name="PATTERN" value="com.codingblocks.divideNconquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.SpiralPrint" />
-      <item itemvalue="Application.MaxSumNoAdjacent" />
-      <item itemvalue="Application.TestClass" />
-      <item itemvalue="Application.RotateString" />
+      <item itemvalue="Application.ReplaceHi" />
+      <item itemvalue="Application.RotatedBinarySearch" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GFG" />
+      <item itemvalue="Application.BinaryDistance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateString" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.MaxSumNoAdjacent" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.SpiralPrint" />
+        <item itemvalue="Application.BinaryDistance" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RotatedBinarySearch" />
+        <item itemvalue="Application.ReplaceHi" />
       </list>
     </recent_temporary>
   </component>
@@ -324,16 +337,21 @@
       <workItem from="1566830748241" duration="4109000" />
       <workItem from="1566990372616" duration="5000" />
       <workItem from="1570344181926" duration="20000" />
+      <workItem from="1570608053117" duration="3865000" />
+      <workItem from="1570638549119" duration="603000" />
+      <workItem from="1570697461242" duration="606000" />
+      <workItem from="1570720195265" duration="3925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21200000" />
+    <option name="totallyTimeSpent" value="30199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <frame x="40" y="-1057" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20436187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24760383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994641" weight="0.6238342" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994641" weight="0.2611399" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.265285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,30 +414,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/JumpingFromTowers.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MagicalStringDP.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/ZeroTriangle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/Pascal.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -485,13 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="848">
@@ -504,41 +496,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/ParamTag.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/RootDoc.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/Tag.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/JumpingFromTowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MagicalStringIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Microsoft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/TowerOfHanoi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -571,20 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/dp/UglyNo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -613,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/MagicalString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/dp/LongestPalinSubSeq.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -639,22 +576,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/RotateString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/RotateString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/ReplaceHi.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/divideNconquer/Fibo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MS.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazeRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="360">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazeRule.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="200">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Microsoft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/MagicalString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MagicalStringIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/JumpingFromTowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/GFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#880#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/trees/BinaryDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1773#1774#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
           </folding>
         </state>
       </provider>

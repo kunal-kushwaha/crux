@@ -11,13 +11,13 @@ public class Parenthesis {
         String str = input.next();
 
         ArrayList<String> list  = parenR("", str, false);
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println(list.get(i));
+        for (String s : list) {
+            System.out.println(s);
         }
 
     }
 
-    public static void paren(String processed, String unprocessed, boolean click){
+    private static void paren(String processed, String unprocessed, boolean click){
 
         if(unprocessed.isEmpty()){
             System.out.println(processed);
@@ -29,11 +29,9 @@ public class Parenthesis {
         if(ch == '('){
             paren(processed, unprocessed.substring(1), true);
         }
-        else if(click == true){
-
+        else if(click){
             if(ch != ')'){
-
-                paren(processed + ch, unprocessed.substring(1), click);
+                paren(processed + ch, unprocessed.substring(1), true);
             }else{
                 paren(processed, unprocessed.substring(1), false);
             }
@@ -44,7 +42,7 @@ public class Parenthesis {
     }
 
 
-    public static ArrayList parenR(String processed, String unprocessed, boolean click){
+    private static ArrayList<String> parenR(String processed, String unprocessed, boolean click){
 
         if(unprocessed.isEmpty()){
             ArrayList<String> list = new ArrayList<>();
@@ -59,17 +57,15 @@ public class Parenthesis {
         if(ch == '('){
             l.addAll(parenR(processed, unprocessed.substring(1), true));
         }
-        else if(click == true){
-
+        else if(click){
             if(ch != ')'){
 
-                l.addAll(parenR(processed + ch, unprocessed.substring(1), click));
+                l.addAll(parenR(processed + ch, unprocessed.substring(1), true));
             }else{
                 l.addAll(parenR(processed, unprocessed.substring(1), false));
             }
-
         }else{
-            l.addAll(parenR(processed, unprocessed.substring(1), click));
+            l.addAll(parenR(processed, unprocessed.substring(1), false));
         }
         return l;
     }
