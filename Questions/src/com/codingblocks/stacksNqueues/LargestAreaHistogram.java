@@ -31,7 +31,6 @@ public class LargestAreaHistogram {
         while(!stack.isEmpty()) {
             max = getMax(arr, stack, max, i);
         }
-
         return max;
     }
 
