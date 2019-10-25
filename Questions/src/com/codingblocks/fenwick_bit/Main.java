@@ -10,27 +10,31 @@ public class Main {
 
         int n = s.nextInt();
         int[] bit = new int[n+1];
-        
+        int[] a = new int[n+1];
         // build the bit : O(NLogN)
-//        for (int i = 1; i <= n; i++) {
-//            bit[i] = s.nextInt();
-//            update(i, bit[i], n, bit);
-//        }
+        for (int i = 1; i <= n; i++) {
+            a[i] = s.nextInt();
+            update(i, a[i], n, bit);
+        }
+
+        System.out.println(Arrays.toString(bit));
+
+//        System.out.println(query(3, bit));
 
         // count inversions : Note - to make sure that array only has elements from 1 to n,
         // assign numbers from 1 to n based on their increasing order if the elements are large
         // This is called Coordinate Compression
-        int[] arr = new int[n+1];
-        for (int i = 1; i <= n; i++) {
-            arr[i] = s.nextInt();
-        }
-        convert(arr, n);
-        int ans = 0;
-        for (int i = n; i >= 1; i--) {
-            ans += query(arr[i]-1, bit);
-            update(arr[i], 1, n, bit);
-        }
-        System.out.println(ans);
+//        int[] arr = new int[n+1];
+//        for (int i = 1; i <= n; i++) {
+//            arr[i] = s.nextInt();
+//        }
+//        convert(arr, n);
+//        int ans = 0;
+//        for (int i = n; i >= 1; i--) {
+//            ans += query(arr[i]-1, bit);
+//            update(arr[i], 1, n, bit);
+//        }
+//        System.out.println(ans);
     }
 
     // O(LogN)
@@ -62,8 +66,7 @@ public class Main {
     }
 
     // coordinate compression
-    public static void convert(int arr[], int n)
-    {
+    public static void convert(int arr[], int n) {
         // Create a temp array and copy contents
         // of arr[] to temp
         int temp[] = arr.clone();
@@ -78,12 +81,14 @@ public class Main {
         // temp[] and assign them values from 0
         // to n-1
         int val = 1;
-        for (int i = 0; i <= n; i++)
+        for (int i = 0; i <= n; i++) {
             umap.put(temp[i], val++);
+        }
 
         // Convert array by taking positions from
         // umap
-        for (int i = 1; i <= n; i++)
+        for (int i = 1; i <= n; i++) {
             arr[i] = umap.get(arr[i]);
+        }
     }
 }
