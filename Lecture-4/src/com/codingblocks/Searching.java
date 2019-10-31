@@ -31,11 +31,11 @@ public class Searching {
         return -1;
     }
 
-
     public static void main(String[] args) {
         int [] data = {12, 34, 56, 78, 79, 90};
-        int found = binary(data, 78);
-        System.out.println(found);
+        int target = 78;
+        int found = binary(data, target);
+        System.out.println(target + " found at index " + found);
     }
 
 }

@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74300ec-4ea0-47a5-a233-f2a7f78fba4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/ProductArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/BoxMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/BoxMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/QueueClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/StackClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/constructors_this_finalize.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/constructors_this_finalize.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/inheritance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/overriding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/overriding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-11/com/codingblocks/static.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Array_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Array_List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/LooknSay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/MultiDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/MultiDArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Satiya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Searching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-4/src/com/codingblocks/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/src/com/codingblocks/Searching.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,49 +34,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Human.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Box.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BoxMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BoxPrice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/overriding.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="700">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -65,8 +60,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <state relative-caret-position="539">
+              <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/QueueClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,10 +97,8 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/check/demo_check.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/check/new_class.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/check/Demo2Impl.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/SingletonClient.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Queue.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/constructors.txt" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/notes.txt" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/final.txt" />
@@ -124,14 +126,16 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/Human.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/StackClient.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/static.txt" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Stack.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Queue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="38" />
-    <option name="y" value="-969" />
-    <option name="width" value="1285" />
-    <option name="height" value="732" />
+    <option name="x" value="40" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -141,23 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lecture-11" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Lecture-11" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Lecture-11" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Lecture-11" type="616d4139:PackageViewModuleNode" />
-              <item name="com.codingblocks" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +162,23 @@
               <item name="Lecture-11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lecture-11" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Lecture-11" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Lecture-11" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Lecture-11" type="616d4139:PackageViewModuleNode" />
+              <item name="com.codingblocks" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -214,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoxMain">
+  <component name="RunManager" selected="Application.Queue">
     <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.BoxMain" />
       <module name="Lecture-11" />
@@ -241,25 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.check.Demo" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Queue" />
       <module name="Lecture-11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.check.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.check.Demo2" />
-      <module name="Lecture-11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingblocks.check.*" />
+          <option name="PATTERN" value="com.codingblocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,20 +271,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Stack" />
+      <module name="Lecture-11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
       <item itemvalue="Application.SingletonClient" />
       <item itemvalue="Application.BoxMain" />
-      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Stack" />
+      <item itemvalue="Application.Queue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.Stack" />
         <item itemvalue="Application.BoxMain" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.SingletonClient" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -308,28 +312,28 @@
       <option name="presentableId" value="Default" />
       <updated>1538211699582</updated>
       <workItem from="1556118975876" duration="33000" />
+      <workItem from="1572373249728" duration="254000" />
+      <workItem from="1572374608793" duration="184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33000" />
+    <option name="totallyTimeSpent" value="471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="40" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28541002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18690096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32739422" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46763754" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46735752" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,8 +342,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973205" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,6 +352,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17309754" />
@@ -404,13 +410,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/check/demo_check.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/check/new_class.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/check/Demo2Impl.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="263" column="11" selection-start-line="263" selection-start-column="11" selection-end-line="263" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Throwable.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/final.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/notes.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Outer.java" />
@@ -430,13 +430,6 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_1.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/QueueClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/QueueOptimized.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -481,13 +474,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Exception.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/constructors_this_finalize.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -509,27 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="554" column="19" selection-start-line="554" selection-start-column="19" selection-end-line="554" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/inheritance.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -544,13 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/static.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -561,7 +521,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -572,10 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BoxMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/overriding.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="260">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -586,17 +546,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/overriding.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BoxMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/StackClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/QueueClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="539">
+          <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
         </state>
       </provider>
     </entry>

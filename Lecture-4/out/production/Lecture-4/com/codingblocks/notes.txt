@@ -1,0 +1,56 @@
+Arrays are implemented as objects.
+They are implemented Dynamically.
+An array is a group of like-typed variables that are referred to by a common name.
+Arrays of any type can be created and may have one or more dimensions. A specific element in an array is accessed
+by its index. Arrays offer a convenient means of grouping related information.
+
+type var-name[ ];
+Here, type declares the element type (also called the base type) of the array.
+The element type determines the data type of each element that comprises the array.
+Thus, the element type for the array determines what type of data the array will hold.
+For example, the following declares an array named month_days with the type “array of int”:
+
+     int month_days[];
+
+To link month_days with an actual, physical array of integers, you must allocate one using new and assign it to
+month_days. new is a special operator that allocates memory.
+
+array-var = new type [size];
+Here, type specifies the type of data being allocated, size specifies the number of elements in the array,
+and array-var is the array variable that is linked to the array.
+
+The reason that we need to explicitly create arrays at run time is that the Java compiler cannot know how much space
+to reserve for the array at compile time (as it can for primitive-type values).
+
+The elements in the array allocated by new will automatically be initialized to zero (for numeric types),
+false (for boolean), or null (for reference types). This example allocates a 12-element array of integers and links
+them to month_days:     month_days = new int[12];
+In Java all arrays are dynamically allocated.
+The Java run-time system will check to be sure that all array indexes are in the correct range.
+
+To specify the initialization values at compile time,by listing literal values between curly braces,separated by commas:
+int[] a = { 1, 1, 2, 3, 5, 8 };
+
+Multidimensional Arrays:
+
+In Java, multidimensional arrays are actually arrays of arrays.
+
+When you allocate memory for a multidimensional array, you need only specify the memory for the first (leftmost)
+dimension. You can allocate the remaining dimensions separately.
+int twoD[][] = new int[4][];
+twoD[0] = new int[5];
+twoD[1] = new int[5];
+twoD[2] = new int[5];
+twoD[3] = new int[5];
+
+While there is no advantage to individually allocating the second dimension arrays in this situation,
+there may be in others. For example, when you allocate dimensions manually, you do not need to allocate the same number
+of elements for each dimension. As stated earlier, since multidimensional arrays are actually arrays of arrays,
+the length of each array is under your control.
+
+There is a second form that may be used to declare an array: type[ ] var-name;
+Here, the square brackets follow the type specifier, and not the name of the array variable.
+For example, the following two declarations are equivalent:
+     int al[] = new int[3];
+     int[] a2 = new int[3];
+

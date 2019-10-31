@@ -59,4 +59,21 @@ public class Queue {
         System.out.println("END");
     }
 
+    public static void main(String[] args) throws Exception {
+        Queue queue = new Queue();
+
+        for (int i = 0; i < 5; i++) {
+            int random = (int)(Math.random()*100);
+            queue.insert(random);
+            queue.display();
+        }
+
+        System.out.println();
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Removed " + queue.remove());
+            queue.display();
+        }
+    }
+
 }

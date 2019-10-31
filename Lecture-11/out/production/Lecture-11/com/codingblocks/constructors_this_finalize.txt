@@ -4,12 +4,15 @@ this can be used inside any method to refer to the current object. That is, this
 which the method was invoked.
 
 final Keyword:
-A field can be declared as final. Doing so prevents its contents from being modified, making it, essentially, a constant.
+A field can be declared as final.Doing so prevents its contents from being modified, making it, essentially, a constant.
 This means that you must initialize a final field when it is declared.
 
 It is a common coding convention to choose all uppercase identifiers for final fields:
      final int FILE_OPEN = 2;
 
+Unfortunately, final guarantees immutability only when instance variables are primitive types, not reference types.
+If an instance variable of a reference type has the final modifier, the value of that instance variable (the reference
+to an object) will never change—it will always refer to the same object—but the value of the object itself can change.
 
 The finalize( ) Method:
 Sometimes an object will need to perform some action when it is destroyed.
@@ -63,7 +66,7 @@ public class Main {
 
 Any class will have a default constructor, does not matter if we declare it in the class or not. If we inherit a class,
 then the derived class must call its super class constructor. It is done by default in derived class.
-If we does not have a default constructor in the derived class, the JVM will invoke its default constructor and call
+If it does not have a default constructor in the derived class, the JVM will invoke its default constructor and call
 the super class constructor by default. If we have a parameterised constructor in the derived class still it calls the
 default super class constructor by default. In this case, if the super class does not have a default constructor,
 instead it has a parameterised constructor, then the derived class constructor should call explicitly call the
