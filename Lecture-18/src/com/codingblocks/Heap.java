@@ -38,7 +38,6 @@ public class Heap<T extends Comparable<T>>{
 
         if(!list.isEmpty()){
             list.set(0, last);
-
             downheap(0);
         }
         return temp;

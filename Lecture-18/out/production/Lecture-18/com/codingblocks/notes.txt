@@ -1,7 +1,7 @@
 Heap is used so that we can keep the items sorted even if we add a new item.
-When we add, we can add in logN complexity.
-We can remove minimum value in heap in constant time.
 
+We can add and remove in O(log(N)) complexity, where N is the number of nodes. log(N) is the height.
+Complexity of GETTING the minimum value is O(1)
 Creating sorted array from heap is always nlogn or more.
 
 
