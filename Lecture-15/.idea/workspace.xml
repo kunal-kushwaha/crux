@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="913303e9-ee0a-433c-98ed-e4eeb2fca07d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/BoxMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/BoxMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/StackClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/constructors_this_finalize.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/constructors_this_finalize.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/inheritance.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/overriding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/overriding.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/static.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-15/com/codingblocks/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-15/com/codingblocks/FileIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Array_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Array_List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/LooknSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/MultiDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/MultiDArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Satiya.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/out/production/Lecture-4/com/codingblocks/Searching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-4/src/com/codingblocks/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-4/src/com/codingblocks/Searching.java" afterDir="false" />
-    </list>
+    <list default="true" id="913303e9-ee0a-433c-98ed-e4eeb2fca07d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="262">
+              <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
               <folding>
                 <element signature="e#672#673#0" expanded="true" />
                 <element signature="e#709#710#0" expanded="true" />
@@ -66,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="88" column="44" lean-forward="true" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+            <state relative-caret-position="369">
+              <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -100,11 +71,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="114" />
+    <option name="width" value="960" />
+    <option name="height" value="547" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +106,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,17 +220,18 @@
       <workItem from="1570723233052" duration="793000" />
       <workItem from="1572374851344" duration="590000" />
       <workItem from="1572375477420" duration="271000" />
+      <workItem from="1573379455037" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3680000" />
+    <option name="totallyTimeSpent" value="3786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="-1057" width="1920" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1315229" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0993538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,10 +331,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="262">
+          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
           <folding>
             <element signature="e#672#673#0" expanded="true" />
             <element signature="e#709#710#0" expanded="true" />
@@ -374,13 +353,6 @@
             <element signature="method#treeUsingPostAndIn#0;class#BinaryTree#0" />
             <element signature="method#postAndIn#0;class#BinaryTree#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="88" column="44" lean-forward="true" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
         </state>
       </provider>
     </entry>
