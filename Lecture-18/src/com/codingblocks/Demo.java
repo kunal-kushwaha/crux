@@ -1,10 +1,6 @@
 package com.codingblocks;
 
-import com.sun.deploy.util.StringUtils;
-
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Scanner;
 
 public class Demo {
 
