@@ -2,37 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="536e202d-2e3b-431e-af74-9fc0240d6a6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/META-INF/Lecture-14.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/BinaryDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Tree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/stacksNqueues/LargestAreaHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/out/production/Questions/com/codingblocks/stacksNqueues/LargestAreaHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Questions/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Sorting.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Sorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="method#quickSort#0;class#Sorting#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,54 +44,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/CountPallin.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Sieve.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Sorting.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="729" />
   </component>
+  <component name="ProjectId" id="1VLQPoe1NwekpHfFRFKFMYMCAKV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lecture-9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lecture-9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lecture-9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lecture-9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lecture-9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lecture-9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -99,18 +62,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544972185848" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="CountPallin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -177,6 +128,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -188,77 +151,17 @@
       <option name="presentableId" value="Default" />
       <updated>1537608407235</updated>
       <workItem from="1571148214444" duration="52000" />
+      <workItem from="1577029875349" duration="643000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14681892" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32516703" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32804233" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/CountPallin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Sieve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Sorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="method#quickSort#0;class#Sorting#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577029878661">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1577029878661" />
   </component>
 </project>

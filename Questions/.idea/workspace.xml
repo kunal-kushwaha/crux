@@ -2,20 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/META-INF/Lecture-14.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/BinaryDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Tree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/fenwick_bit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/fenwick_bit/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/stacksNqueues/LargestAreaHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/stacksNqueues/LargestAreaHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/fenwick_bit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/fenwick_bit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/META-INF/Questions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/mathematics/NKLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/mathematics/NKLadder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/mathematics/NKLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/mathematics/NKLadder.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,19 +50,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/fenwick_bit/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,108 +69,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main4.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/output.txt" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MagicalString.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MagicalStringDP.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MS.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Split.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MagicalStringIT.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/LookNSay.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/Q_5.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/Zerotriangle.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/ZeroTriangle.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/Pascal.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/FiboTriangle.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/Diamond.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/HollowDiamond.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/Q_13.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/MirrorTriangle.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/MirrorDiamond.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/patterns/VCut.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/TowerOfHanoi.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/SplitArray.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/LexoAlpha.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/dp/MultiDArray.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitions.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/PalinPartitions.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/SetOfCharStrings.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/BinarySeq.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalinMin.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalin.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalinMIN.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/SpiralPrint.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/StringCount.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Node.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Arrays2D/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/array/MaxSumNoAdjacent.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/dp/LongestPalinSubSeq.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/RotateString.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/MazeRule.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/ReplaceHi.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/GFG.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/BinaryDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/trees/BinaryDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/array/DivisibleSumPairs.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/fenwick_bit/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="729" />
-  </component>
+  <component name="ProjectId" id="1VpPb4kc1NCUaZrdMkSAWzJfn5g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Questions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
-              <item name="fenwick_bit" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -164,7 +84,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549101337961" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/codingblocks/recursion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -189,25 +109,26 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="BinaryDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.trees.BinaryDistance" />
+  <component name="RunManager" selected="Application.XOR">
+    <configuration name="CheckBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.trees.CheckBST" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codingblocks.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Demo" />
+      <module name="Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,19 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.GFG" />
-      <module name="Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingblocks.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.fenwick_bit.Main" />
       <module name="Questions" />
@@ -254,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Main" />
+    <configuration name="XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.XOR" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.trees.*" />
+          <option name="PATTERN" value="com.codingblocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,21 +176,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.GFG" />
-      <item itemvalue="Application.BinaryDistance" />
       <item itemvalue="Application.DivisibleSumPairs" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.CheckBST" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.XOR" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XOR" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.CheckBST" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.DivisibleSumPairs" />
-        <item itemvalue="Application.BinaryDistance" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -324,335 +244,62 @@
       <workItem from="1571301792491" duration="2835000" />
       <workItem from="1571340507886" duration="705000" />
       <workItem from="1571548975743" duration="17000" />
+      <workItem from="1577947132988" duration="8560000" />
+      <workItem from="1577979221867" duration="467000" />
+      <workItem from="1578060527792" duration="214000" />
+      <workItem from="1578200460876" duration="1640000" />
+      <workItem from="1578309915093" duration="2000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36667000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19547658" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994641" weight="0.33594978" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.265285" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32746115" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005359" side_tool="true" weight="0.36407766" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32746115" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32746115" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973205" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255627" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994641" weight="0.55132276" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.266147" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005359" side_tool="true" weight="0.36414254" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973205" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1577958280231">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1577958280231" />
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom" timestamp="1578060741344">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741344" />
+    <state width="1750" height="309" key="GridCell.Tab.0.center" timestamp="1578060741343">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="309" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
+    <state width="1750" height="309" key="GridCell.Tab.0.left" timestamp="1578060741343">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="309" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
+    <state width="1750" height="309" key="GridCell.Tab.0.right" timestamp="1578060741343">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="309" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1577976678584">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678584" />
+    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1577976678582">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678582" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1577976678582">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678582" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1577976678584">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678584" />
+    <state x="0" y="23" width="1792" height="1097" key="dock-window-1" timestamp="1578060567776">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="0" y="23" width="1792" height="1097" key="dock-window-1/0.23.1792.1097@0.23.1792.1097" timestamp="1578060567776" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/HollowDiamond.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/MirrorTriangle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/MirrorDiamond.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/VCut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/NumToWord.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/InputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/patterns/LookNSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/SplitArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Scanner.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/PalinPartitions.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/SetOfCharStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/LexoAlpha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/jconsole.jar!/META-INF/MANIFEST.MF" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/MemberDoc.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/ParamTag.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/RootDoc.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/com/sun/javadoc/Tag.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/TowerOfHanoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Arrays2D/SpiralPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Node.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Arrays2D/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/array/MaxSumNoAdjacent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/dp/UglyNo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/dp/MultiDArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/BinarySeq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/AllPartitionsPalinMIN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-429">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/dp/LongestPalinSubSeq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="315" column="15" selection-start-line="315" selection-start-column="15" selection-end-line="315" selection-end-column="15" />
-          <folding>
-            <element signature="e#11657#11658#0" expanded="true" />
-            <element signature="e#11704#11705#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/RotateString.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/ReplaceHi.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/divideNconquer/Fibo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MS.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MazeRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Parenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Microsoft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/recursion/MagicalString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/MagicalStringIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/JumpingFromTowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/BinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/GFG.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/trees/BinaryDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#1712#1713#0" expanded="true" />
-            <element signature="e#1773#1774#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/stacksNqueues/LargestAreaHistogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/array/DivisibleSumPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/fenwick_bit/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

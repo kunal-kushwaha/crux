@@ -112,7 +112,6 @@ public class BinarySearchTree {
         populateWithSorted(nums, mid + 1, end);
     }
 
-
     public int height(Node node){
 
         if(node == null){
