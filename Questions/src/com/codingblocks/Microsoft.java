@@ -31,11 +31,10 @@ public class Microsoft {
             if(i == nums.size() - 1){
                 if(value <= limit){
                     count++;
-                    break;
                 }else{
                     count += 2;
-                    break;
                 }
+                break;
             }
             if(value <= limit){
                 i++;

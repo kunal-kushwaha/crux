@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/META-INF/Lecture-14.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/out/production/Lecture-18/com/codingblocks/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/META-INF/Questions.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/codeLikeItMatters/Main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/mathematics/NKLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/mathematics/NKLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/codeLikeItMatters/Main4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/mathematics/NKLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/mathematics/NKLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="tower&#9;FILE&#9;file:///Users/SicParvisMagna/OneDrive/Documents/JAVA Programs/IntelliJ IDEA/CRUX/Questions/src/com/codingblocks/recursion/TowerOfHanoi.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -249,6 +213,8 @@
       <workItem from="1578060527792" duration="214000" />
       <workItem from="1578200460876" duration="1640000" />
       <workItem from="1578309915093" duration="2000" />
+      <workItem from="1578467154829" duration="2050000" />
+      <workItem from="1578549942767" duration="3880000" />
     </task>
     <servers />
   </component>
