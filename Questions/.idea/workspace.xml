@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Microsoft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/XOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/XOR.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +53,11 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.codingblocks" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/codingblocks/recursion" />
@@ -69,11 +70,11 @@
       <recent name="com.codingblocks.fenwick_bit" />
       <recent name="com.codingblocks.bitmasking" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codingblocks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XOR">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="CheckBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.trees.CheckBST" />
       <module name="Questions" />
@@ -100,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.array.DivisibleSumPairs" />
-      <module name="Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingblocks.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.fenwick_bit.Main" />
       <module name="Questions" />
@@ -126,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MigratingBirdsHR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.array.MigratingBirdsHR" />
+      <module name="Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.XOR" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="PATTERN" value="com.codingblocks.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DivisibleSumPairs" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.CheckBST" />
-      <item itemvalue="Application.Demo" />
       <item itemvalue="Application.XOR" />
+      <item itemvalue="Application.MigratingBirdsHR" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XOR" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.MigratingBirdsHR" />
+        <item itemvalue="Application.XOR" />
         <item itemvalue="Application.CheckBST" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.DivisibleSumPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +215,16 @@
       <workItem from="1578200460876" duration="1640000" />
       <workItem from="1578309915093" duration="2000" />
       <workItem from="1578467154829" duration="2050000" />
-      <workItem from="1578549942767" duration="3880000" />
+      <workItem from="1578549942767" duration="5065000" />
+      <workItem from="1578738920234" duration="20000" />
+      <workItem from="1579166736669" duration="1740000" />
+      <workItem from="1579620746488" duration="93000" />
+      <workItem from="1579949418329" duration="98000" />
+      <workItem from="1580106364290" duration="566000" />
+      <workItem from="1580138253510" duration="41000" />
+      <workItem from="1580362643531" duration="2892000" />
+      <workItem from="1581007101432" duration="549000" />
+      <workItem from="1581531555973" duration="14000" />
     </task>
     <servers />
   </component>
@@ -226,38 +236,46 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="709" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1577958280231" />
-    <state width="1750" height="309" key="GridCell.Tab.0.bottom" timestamp="1578060741344">
+    <state x="628" y="463" width="536" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580366783255">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741344" />
-    <state width="1750" height="309" key="GridCell.Tab.0.center" timestamp="1578060741343">
+    <state x="628" y="463" width="536" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1792.1097@0.23.1792.1097" timestamp="1580366783255" />
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom" timestamp="1581084459175">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
-    <state width="1750" height="309" key="GridCell.Tab.0.left" timestamp="1578060741343">
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
+    <state width="1750" height="309" key="GridCell.Tab.0.center" timestamp="1581084459175">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
-    <state width="1750" height="309" key="GridCell.Tab.0.right" timestamp="1578060741343">
+    <state width="1750" height="309" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
+    <state width="1750" height="309" key="GridCell.Tab.0.left" timestamp="1581084459175">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1578060741343" />
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1577976678584">
+    <state width="1750" height="309" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
+    <state width="1750" height="309" key="GridCell.Tab.0.right" timestamp="1581084459175">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678584" />
-    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1577976678582">
+    <state width="1750" height="309" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1580370027880">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678582" />
-    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1577976678582">
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
+    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1580370027880">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678582" />
-    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1577976678584">
+    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1580370027879">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1577976678584" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027879" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1580370027880">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
+    <state x="427" y="210" key="SettingsEditor" timestamp="1581531569197">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="427" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1581531569197" />
     <state x="0" y="23" width="1792" height="1097" key="dock-window-1" timestamp="1578060567776">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
