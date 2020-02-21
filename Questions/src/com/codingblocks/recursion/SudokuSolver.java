@@ -15,6 +15,7 @@ package com.codingblocks.recursion;
  */
 
 public class SudokuSolver {
+    static int count = 0;
     public static void main(String[] args) {
 
         int[][] sudoku = {
@@ -29,6 +30,7 @@ public class SudokuSolver {
                 {0, 0, 0, 0, 8, 0, 0, 7, 9}
         };
         solveSudoku(sudoku, 0, 0, 9);
+        System.out.println(count);
     }
 
     public static boolean solveSudoku(int[][] mat, int i, int j, int n) {
@@ -73,6 +75,7 @@ public class SudokuSolver {
     }
 
     private static boolean canPlace(int[][] mat, int i, int j, int n, int number) {
+        count++;
         // Row and Column check
         for (int k = 0; k < n; k++) {
             if(mat[k][j] == number || mat[i][k] == number) {
