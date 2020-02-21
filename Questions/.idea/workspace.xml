@@ -4,8 +4,7 @@
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Microsoft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/XOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/XOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/divideNconquer/RotatedBinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <recent name="com.codingblocks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.SudokuSolver">
     <configuration name="CheckBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.trees.CheckBST" />
       <module name="Questions" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.fenwick_bit.Main" />
+    <configuration name="MigratingBirdsHR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.array.MigratingBirdsHR" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.fenwick_bit.*" />
+          <option name="PATTERN" value="com.codingblocks.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MigratingBirdsHR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.array.MigratingBirdsHR" />
+    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.recursion.SudokuSolver" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.array.*" />
+          <option name="PATTERN" value="com.codingblocks.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.CheckBST" />
       <item itemvalue="Application.XOR" />
       <item itemvalue="Application.MigratingBirdsHR" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.SudokuSolver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SudokuSolver" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MigratingBirdsHR" />
         <item itemvalue="Application.XOR" />
         <item itemvalue="Application.CheckBST" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +224,7 @@
       <workItem from="1580362643531" duration="2892000" />
       <workItem from="1581007101432" duration="549000" />
       <workItem from="1581531555973" duration="14000" />
+      <workItem from="1582263328316" duration="705000" />
     </task>
     <servers />
   </component>
@@ -240,38 +240,38 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="628" y="463" width="536" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1792.1097@0.23.1792.1097" timestamp="1580366783255" />
-    <state width="1750" height="309" key="GridCell.Tab.0.bottom" timestamp="1581084459175">
+    <state width="1750" height="238" key="GridCell.Tab.0.bottom" timestamp="1582263816616">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
-    <state width="1750" height="309" key="GridCell.Tab.0.center" timestamp="1581084459175">
+    <state width="1750" height="238" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816616" />
+    <state width="1750" height="238" key="GridCell.Tab.0.center" timestamp="1582263816616">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
-    <state width="1750" height="309" key="GridCell.Tab.0.left" timestamp="1581084459175">
+    <state width="1750" height="238" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816616" />
+    <state width="1750" height="238" key="GridCell.Tab.0.left" timestamp="1582263816615">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
-    <state width="1750" height="309" key="GridCell.Tab.0.right" timestamp="1581084459175">
+    <state width="1750" height="238" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816615" />
+    <state width="1750" height="238" key="GridCell.Tab.0.right" timestamp="1582263816616">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="309" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1581084459175" />
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1580370027880">
+    <state width="1750" height="238" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816616" />
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1582263816886">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
-    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1580370027880">
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816886" />
+    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1582263816885">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
-    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1580370027879">
+    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816885" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1582263816884">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027879" />
-    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1580370027880">
+    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816884" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1582263816886">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1580370027880" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582263816886" />
     <state x="427" y="210" key="SettingsEditor" timestamp="1581531569197">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -280,6 +280,17 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="0" y="23" width="1792" height="1097" key="dock-window-1/0.23.1792.1097@0.23.1792.1097" timestamp="1578060567776" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingblocks/recursion/SudokuSolver.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

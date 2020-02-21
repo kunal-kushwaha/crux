@@ -26,8 +26,7 @@ public class RotatedBinarySearch {
     /* Function to get pivot. For array
        3, 4, 5, 6, 1, 2 it returns
        3 (index of 6) */
-    static int findPivot(int arr[], int low, int high)
-    {
+    static int findPivot(int arr[], int low, int high) {
         // base cases
         if (high < low) {
             return -1;
