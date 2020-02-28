@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/recursion/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/recursion/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/segmentTrees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/segmentTrees/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="tower&#9;FILE&#9;file:///Users/SicParvisMagna/OneDrive/Documents/JAVA Programs/IntelliJ IDEA/CRUX/Questions/src/com/codingblocks/recursion/TowerOfHanoi.java" />
@@ -51,7 +57,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -223,7 +229,12 @@
       <workItem from="1580362643531" duration="2892000" />
       <workItem from="1581007101432" duration="549000" />
       <workItem from="1581531555973" duration="14000" />
-      <workItem from="1582263328316" duration="885000" />
+      <workItem from="1582263328316" duration="1846000" />
+      <workItem from="1582280854977" duration="106000" />
+      <workItem from="1582281101842" duration="55000" />
+      <workItem from="1582373405883" duration="55000" />
+      <workItem from="1582435506996" duration="2000" />
+      <workItem from="1582904611298" duration="264000" />
     </task>
     <servers />
   </component>
@@ -239,42 +250,47 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="628" y="463" width="536" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1792.1097@0.23.1792.1097" timestamp="1580366783255" />
-    <state width="1750" height="238" key="GridCell.Tab.0.bottom" timestamp="1582264050633">
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom" timestamp="1582269440752">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050633" />
-    <state width="1750" height="238" key="GridCell.Tab.0.center" timestamp="1582264050632">
+    <state width="1750" height="309" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440752" />
+    <state width="1750" height="309" key="GridCell.Tab.0.center" timestamp="1582269440751">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050632" />
-    <state width="1750" height="238" key="GridCell.Tab.0.left" timestamp="1582264050631">
+    <state width="1750" height="309" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440751" />
+    <state width="1750" height="309" key="GridCell.Tab.0.left" timestamp="1582269440751">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050631" />
-    <state width="1750" height="238" key="GridCell.Tab.0.right" timestamp="1582264050632">
+    <state width="1750" height="309" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440751" />
+    <state width="1750" height="309" key="GridCell.Tab.0.right" timestamp="1582269440752">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050632" />
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1582264050634">
+    <state width="1750" height="309" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440752" />
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1582269440749">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050634" />
-    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1582264050633">
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440749" />
+    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1582269440749">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050633" />
-    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1582264050633">
+    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440749" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1582269440748">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050633" />
-    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1582264050634">
+    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440748" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1582269440749">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582264050634" />
-    <state x="427" y="210" key="SettingsEditor" timestamp="1581531569197">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1582269440749" />
+    <state x="2250" y="-199" key="SettingsEditor" timestamp="1582281153483">
+      <screen x="1792" y="-379" width="1920" height="1057" />
     </state>
     <state x="427" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1581531569197" />
+    <state x="2250" y="-199" key="SettingsEditor/1792.-379.1920.1057/0.23.1792.1097@1792.-379.1920.1057" timestamp="1582281153483" />
+    <state x="495" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582267119374">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="495" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1097@0.23.1792.1097" timestamp="1582267119374" />
     <state x="0" y="23" width="1792" height="1097" key="dock-window-1" timestamp="1578060567776">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

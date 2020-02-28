@@ -48,7 +48,7 @@ public class Main {
 
     // Range based search
     // ss = starting index of tree root node
-    // qs = starting index of thr query you want to search
+    // qs = starting index of the query you want to search
     public static int query(int[] tree, int ss, int se, int qs, int qe, int index) {
         // complete overlap
         if(ss >= qs && se <= qe) {
