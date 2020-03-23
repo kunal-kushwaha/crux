@@ -1,0 +1,116 @@
+Contains the collections framework,legacy collection classes, event model,date and time facilities,internationalization,
+and miscellaneous utility classes (a string tokenizer, a random-number generator, and a bit array).
+
+Interfaces :
+
+Collection<E>   :
+A Collection is a group of individual objects represented as a single unit.
+Java provides Collection Framework which defines several classes and interfaces to represent a group of objects as a single unit.
+The Collection interface (java.util.Collection) and Map interface (java.util.Map) are the two main “root” interfaces of Java collection classes.
+
+Comparator<T>
+Deque<E>
+Enumeration<E>
+EventListener
+Formattable
+Iterator<E>
+List<E>
+ListIterator<E>
+Map<K,V>
+Map.Entry<K,V>
+NavigableMap<K,V>
+NavigableSet<E>
+Observer
+PrimitiveIterator<T,T_CONS>
+PrimitiveIterator.OfDouble
+PrimitiveIterator.OfInt
+PrimitiveIterator.OfLong
+Queue<E>
+RandomAccess
+Set<E>
+SortedMap<K,V>
+SortedSet<E>
+Spliterator<T>
+Spliterator.OfDouble
+Spliterator.OfInt
+Spliterator.OfLong
+Spliterator.OfPrimitive<T,T_CONS,T_SPLITR extends Spliterator.OfPrimitive<T,T_CONS,T_SPLITR>>
+
+
+Classes :
+
+AbstractCollection<E>
+AbstractList<E>
+AbstractMap<K,V>
+AbstractMap.SimpleEntry<K,V>
+AbstractMap.SimpleImmutableEntry<K,V>
+AbstractQueue<E>
+AbstractSequentialList<E>
+AbstractSet<E>
+ArrayDeque<E>
+ArrayList<E>
+Arrays
+Base64
+Base64.Decoder
+Base64.Encoder
+BitSet
+Calendar
+Calendar.Builder
+Collections
+Currency
+Date
+Dictionary<K,V>
+DoubleSummaryStatistics
+EnumMap<K extends Enum<K>,V>
+EnumSet<E extends Enum<E>>
+EventListenerProxy<T extends EventListener>
+EventObject
+FormattableFlags
+Formatter
+GregorianCalendar
+HashMap<K,V>
+HashSet<E>
+Hashtable<K,V>
+IdentityHashMap<K,V>
+IntSummaryStatistics
+LinkedHashMap<K,V>
+LinkedHashSet<E>
+LinkedList<E>
+ListResourceBundle
+Locale
+Locale.Builder
+Locale.LanguageRange
+LongSummaryStatistics
+Objects
+Observable
+Optional<T>
+OptionalDouble
+OptionalInt
+OptionalLong
+PriorityQueue<E>
+Properties
+PropertyPermission
+PropertyResourceBundle
+Random
+ResourceBundle
+ResourceBundle.Control
+Scanner
+ServiceLoader<S>
+SimpleTimeZone
+Spliterators
+Spliterators.AbstractDoubleSpliterator
+Spliterators.AbstractIntSpliterator
+Spliterators.AbstractLongSpliterator
+Spliterators.AbstractSpliterator<T>
+SplittableRandom
+Stack<E>
+StringJoiner
+StringTokenizer
+Timer
+TimerTask
+TimeZone
+TreeMap<K,V>
+TreeSet<E>
+UUID
+Vector<E>
+WeakHashMap<K,V>

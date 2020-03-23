@@ -1,0 +1,65 @@
+- Type Parameters Can’t Be Instantiated : It is not possible to create an instance of a type parameter.
+
+// Can't create an instance of T.
+class Gen<T> {
+    T ob;
+    Gen() {
+       ob = new T(); // Illegal!!!
+    }
+}
+Here, it is illegal to attempt to create an instance of T.
+The reason should be easy to understand: the compiler does not know what type of object to create.
+T is simply a placeholder.
+
+
+-Restrictions on Static Members : No static member can use a type parameter declared by the enclosing class.
+
+class Wrong<T> {
+       // Wrong, no static variables of type T.
+       static T ob;
+
+       // Wrong, no static method can use T.
+       static T getob() {
+       return ob;
+    }
+}
+Although you can’t declare static members that use a type parameter declared by the enclosing class, you can declare static generic methods.
+
+
+-Generic Array Restrictions :
+ First, you cannot instantiate an array whose element type is a type parameter.
+ Second, you cannot create an array of type-specific generic references.
+
+// Generics and arrays.
+class Gen<T extends Number> {
+    T ob;
+    T vals[]; // OK
+         Gen(T o, T[] nums) {
+           ob = o;
+
+           // This statement is illegal.
+           // vals = new T[10]; // can't create an array of T
+           // The reason you can’t create an array of T is that there is no way for the compiler to know what type of array to actually create.
+
+           // But, this statement is OK.
+           vals = nums; // OK to assign reference to existent array
+
+           // think of it like, anything on the rhs of = will be done on run-time (ofc) & on the lhs on compile time.
+           // Hence after compilation is over, T will replace say Integer, etc. and then the values can be added at run-time when rhs is working.
+         }
+}
+class GenArrays {
+     public static void main(String args[]) {
+        Integer n[] = { 1, 2, 3, 4, 5 };
+        Gen<Integer> iOb = new Gen<Integer>(50, n);
+
+        // Can't create an array of type-specific generic references.
+        // Gen<Integer> gens[] = new Gen<Integer>[10]; // Wrong!
+
+        // This is OK.
+        Gen<?> gens[] = new Gen<?>[10]; // OK
+      }
+}
+
+- Generic Exception Restriction :
+A generic class cannot extend Throwable. This means that you cannot create generic exception classes.

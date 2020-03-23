@@ -1,0 +1,71 @@
+Provides classes that are fundamental to the design of the Java programming language.
+The most important classes are Object, which is the root of the class hierarchy, and Class, instances of which represent
+classes at run time.
+
+Interfaces :
+
+Appendable
+AutoCloseable
+CharSequence
+Cloneable
+Comparable<T>   : Has only one method :- compareTo()
+Iterable<T>
+Readable
+Runnable
+Thread.UncaughtExceptionHandler
+
+
+Classes :
+
+Boolean
+Byte
+Character
+Character.Subset
+Character.UnicodeBlock
+Class<T>
+ClassLoader
+ClassValue<T>
+Compiler
+Double
+Enum<E extends Enum<E>>
+Float
+InheritableThreadLocal<T>
+Integer
+Long
+Math
+
+Number :    (Abstract Class)
+Most of the time, while working with numbers in java, we use primitive data types. But, Java also provides various
+numeric wrapper sub classes under the abstract class Number present in java.lang package.There are mainly six subclasses
+under Number class.These sub-classes define some useful methods which are used frequently while dealing with numbers.
+Byte, Integer, Double, Short, Float, Long
+NOTE : Primitive Wrapper Classes are Immutable in Java.
+
+
+Object  :
+Object class is present in java.lang package.Every class in Java is directly or indirectly derived from the Object class.
+If a Class does not extend any other class then it is direct child class of Object and if extends other class then it is
+an indirectly derived. Therefore the Object class methods are available to all Java classes. Hence Object class acts as
+a root of inheritance hierarchy in any Java Program.
+There are methods in Object class:
+toString(), hashCode(), equals(Object obj), getClass(), finalize(), clone(), etc.
+
+Package
+Process
+ProcessBuilder
+ProcessBuilder.Redirect
+Runtime
+RuntimePermission
+SecurityManager
+Short
+StackTraceElement
+StrictMath
+String
+StringBuffer
+StringBuilder
+System
+Thread
+ThreadGroup
+ThreadLocal<T>
+Throwable
+Void

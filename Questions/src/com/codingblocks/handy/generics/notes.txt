@@ -1,0 +1,147 @@
+Perhaps the one feature of Java that has been most significantly affected by generics is the Collections Framework.
+
+It is important to understand that Java has always given you the ability to create generalized classes, interfaces,
+and methods by operating through references of type Object. Because Object is the superclass of all other classes, an
+Object reference can refer to any type object. Thus, in pre-generics code, generalized classes, interfaces, and methods
+used Object references to operate on various types of objects. The problem was that they could not do so with type safety.
+
+In the class declaration directly after the class name you will put a pair of angle brackets < >, sometimes referred to
+as chevrons.
+The variable or variables contained inside of the chevrons cannot ever represent primitive data types.
+
+ERASURE:
+When your Java code is compiled, all generic type information is removed (erased).
+This means replacing type parameters with their bound type, which is Object if no explicit bound is specified,
+and then applying the appropriate casts (as determined by the type arguments) to maintain type compatibility with the
+types specified by the type arguments. The compiler also enforces this type compatibility. This approach to generics
+means that no type parameters exist at run time. They are simply a source-code mechanism.
+Determination of the type happens at runtime.
+
+Generics Work Only with Reference Types. You cannot use a primitive type, such as int or char.
+
+       MyClass<Integer, String> mcOb = new MyClass<>(98, "A String");
+
+Notice that the instance creation portion simply uses <>, which is an empty type argument list.
+This is referred to as the diamond operator.
+It tells the compiler to infer the type arguments needed by the constructor in the new expression.
+
+Bounded type parameters :
+The trouble is that the compiler has no way to know that you are intending to create Number objects using only
+numeric types.
+Thus, when you try to compile Box, an error is reported that indicates that the doubleValue( ) method is unknown.
+Bounded type parameters limit the valid type parameters to only types that are an instance of the bounded type.
+The Java keywords extends is used to specify the bounded type.
+
+    class Box<T extends Number> { ... }
+
+In addition to using a class type as a bound, you can also use an interface type. In fact, you can specify multiple
+interfaces as bounds. Furthermore, a bound can include both a class type and one or more interfaces.
+
+     class Gen<T extends MyClass & MyInterface> { // ...
+
+Wildcard Arguments <?> : Used to compare generic objects.
+
+Bounded Wildcards :
+Wildcard arguments can be bounded in much the same way that a type parameter can be bounded.
+A bounded wildcard is especially important when you are creating a generic type that will operate on a class hierarchy.
+
+You can also specify a lower bound for a wildcard by adding a super clause to a wildcard declaration.
+Here is its general form:
+
+<? super subclass>
+
+In this case, only classes that are superclasses of subclass are acceptable arguments.
+
+Generic Methods :
+
+A generic method does not rely on object state and typically has its own type variables that are local to the scope
+of the generic method.
+A true generic method will have its own type parameters that are independent of the class type parameters.
+A generic method does not have to be contained inside of a generic class, a generic method can be in a regular
+run-of-the-mill class.
+
+The declaration statement for a generic method looks like this:
+
+( <type-variable> ) (return type) (method name) (parameter list) { ... }
+
+EXAMPLE :
+<V extends Number> double calculateVolume(V length, V height, V width) {
+     return (length.doubleValue() * height.doubleValue() * width.doubleValue());
+}
+
+EXAMPLE :
+public static void main(String[] args) {
+    System.out.println(vol(3.6 , 2));       // Getting autoboxed to Double & Integer
+}
+public static <T extends Number> double vol(T a , T b){
+    return a.doubleValue() * b.doubleValue();
+}
+
+
+Generic Constructors :
+It is possible for constructors to be generic, even if their class is not.
+
+Raw Types and Legacy Code :
+Because support for generics did not exist prior to JDK 5, it was necessary to provide some transition path from old,
+pre-generics code.
+To handle the transition to generics, Java allows a generic class to be used without any type arguments.
+This creates a raw type for the class. The main drawback to using the raw type is that the type safety of generics is lost.
+
+Gen raw = new Gen(new Double(98.6));
+Notice that no type arguments are specified. In essence, this creates a Gen object whose type T is replaced by Object.
+
+    Gen raw = new Gen(new Double(98.6));    // getob() will return 98.6
+    int i = (Integer) raw.getob(); // run-time error
+
+In this statement, the value of ob inside raw is obtained, and this value is cast to Integer.
+The trouble is that raw contains a Double value, not an integer value. However, this cannot be detected at compile time
+because the type of raw is unknown. Thus, this statement fails at run time.
+
+
+Generic Class Hierarchies :
+
+Generic classes can be part of a class hierarchy in just the same way as a non-generic class.
+Thus, a generic class can act as a superclass or be a subclass. The key difference between generic and non-generic
+hierarchies is that in a generic hierarchy, any type arguments needed by a generic superclass must be passed up the
+hierarchy by all subclasses.
+It is perfectly acceptable for a non-generic class to be the superclass of a generic subclass.
+
+
+Run-Time Type Comparisons Within a Generic Hierarchy :
+
+ if(iOb2 instanceof Gen2<Integer>)
+      System.out.println("iOb2 is instance of Gen2<Integer>");
+
+These lines can’t be compiled because they attempt to compare iOb2 with a specific type of Gen2, in this case, Gen2<Integer>.
+REMEMBER, there is no generic type information available at run time.
+Therefore, there is no way for instanceof to know if iOb2 is an instance of Gen2<Integer> or not.
+
+ if(iOb2 instanceof Gen2<>)
+      System.out.println("iOb2 is instance of Gen2<>");  // This will work
+
+
+Ambiguity Errors :
+
+The inclusion of generics gives rise to a new type of error that you must guard against: ambiguity.
+Ambiguity errors occur when erasure causes two seemingly distinct generic declarations to resolve to the same erased
+type, causing a conflict.
+
+
+// Ambiguity caused by erasure on
+// overloaded methods.
+class MyGenClass<T, V> {
+    T ob1; V ob2;
+// ...
+// These two overloaded methods are ambiguous
+// and will not compile.
+
+MyGenClass<String, String> obj = new MyGenClass<String, String>();
+
+In this case, both T and V will be replaced by String.
+This makes both versions of set( ) identical, which is, of course, an error.
+void set(T o) {
+    ob1 = o;
+}
+void set(V o) {
+    ob2 = o;
+}
