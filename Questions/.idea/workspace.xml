@@ -4,7 +4,7 @@
     <list default="true" id="a73ae42a-b389-440c-8694-05242ba823e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questions/com/codingblocks/Demo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +60,8 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codingblocks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/codingblocks/handy" />
@@ -69,32 +69,19 @@
       <recent name="$PROJECT_DIR$/src/com/codingblocks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks.bitmasking" />
       <recent name="com.codingblocks.recursion" />
       <recent name="com.codingblocks.handy.io" />
       <recent name="com.codingblocks.stacksNqueues" />
       <recent name="com.codingblocks.sqrtDecomposition" />
-      <recent name="com.codingblocks.segmentTrees" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.codingblocks" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XORProfitProblem">
-    <configuration name="BadUglyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.mathematics.BadUglyNumbers" />
-      <module name="Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingblocks.mathematics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Demo" />
+  <component name="RunManager" selected="Application.SubsetSums">
+    <configuration name="LowerBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.LowerBound" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.recursion.LongestPalindromicSubstring" />
+    <configuration name="SubSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.bitmasking.SubSets" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.recursion.*" />
+          <option name="PATTERN" value="com.codingblocks.bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.mathematics.Maximums" />
+    <configuration name="SubsetSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.bitmasking.SubsetSums" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.mathematics.*" />
+          <option name="PATTERN" value="com.codingblocks.bitmasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +119,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XORProfitProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.bitmasking.XORProfitProblem" />
+    <configuration name="SubsetSums2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.bitmasking.SubsetSums2" />
+      <module name="Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.bitmasking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tawas47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.bitmasking.Tawas47" />
       <module name="Questions" />
       <extension name="coverage">
         <pattern>
@@ -146,19 +146,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestPalindromicSubstring" />
-      <item itemvalue="Application.BadUglyNumbers" />
-      <item itemvalue="Application.Maximums" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.XORProfitProblem" />
+      <item itemvalue="Application.SubSets" />
+      <item itemvalue="Application.Tawas47" />
+      <item itemvalue="Application.SubsetSums" />
+      <item itemvalue="Application.SubsetSums2" />
+      <item itemvalue="Application.LowerBound" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XORProfitProblem" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Maximums" />
-        <item itemvalue="Application.BadUglyNumbers" />
-        <item itemvalue="Application.LongestPalindromicSubstring" />
+        <item itemvalue="Application.SubsetSums" />
+        <item itemvalue="Application.LowerBound" />
+        <item itemvalue="Application.SubSets" />
+        <item itemvalue="Application.SubsetSums2" />
+        <item itemvalue="Application.Tawas47" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +239,7 @@
       <workItem from="1584806468708" duration="4449000" />
       <workItem from="1584874542840" duration="4335000" />
       <workItem from="1584891990072" duration="2282000" />
-      <workItem from="1584944958328" duration="2833000" />
+      <workItem from="1584944958328" duration="24364000" />
     </task>
     <servers />
   </component>
@@ -255,49 +255,53 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="628" y="463" width="536" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1792.1097@0.23.1792.1097" timestamp="1580366783255" />
-    <state width="1750" height="308" key="GridCell.Tab.0.bottom" timestamp="1584951161286">
+    <state x="258" y="170" key="CommitChangelistDialog2" timestamp="1584953436366">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1584895252319" />
-    <state width="1750" height="308" key="GridCell.Tab.0.bottom/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584951161286" />
+    <state x="258" y="170" key="CommitChangelistDialog2/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584953436366" />
+    <state width="1750" height="362" key="GridCell.Tab.0.bottom" timestamp="1584982268855">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="362" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1584982268855" />
+    <state width="1750" height="231" key="GridCell.Tab.0.bottom/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584954203730" />
     <state width="1878" height="295" key="GridCell.Tab.0.bottom/1792.-379.1920.1057/0.23.1792.1097@1792.-379.1920.1057" timestamp="1584808036356" />
-    <state width="1750" height="308" key="GridCell.Tab.0.center" timestamp="1584951161285">
+    <state width="1750" height="362" key="GridCell.Tab.0.center" timestamp="1584982268855">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1584895252318" />
-    <state width="1750" height="308" key="GridCell.Tab.0.center/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584951161285" />
+    <state width="1750" height="362" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1584982268855" />
+    <state width="1750" height="231" key="GridCell.Tab.0.center/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584954203730" />
     <state width="1878" height="295" key="GridCell.Tab.0.center/1792.-379.1920.1057/0.23.1792.1097@1792.-379.1920.1057" timestamp="1584808036356" />
-    <state width="1750" height="308" key="GridCell.Tab.0.left" timestamp="1584951161284">
+    <state width="1750" height="362" key="GridCell.Tab.0.left" timestamp="1584982268854">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1584895252318" />
-    <state width="1750" height="308" key="GridCell.Tab.0.left/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584951161284" />
+    <state width="1750" height="362" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1584982268854" />
+    <state width="1750" height="231" key="GridCell.Tab.0.left/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584954203729" />
     <state width="1878" height="295" key="GridCell.Tab.0.left/1792.-379.1920.1057/0.23.1792.1097@1792.-379.1920.1057" timestamp="1584808036355" />
-    <state width="1750" height="308" key="GridCell.Tab.0.right" timestamp="1584951161286">
+    <state width="1750" height="362" key="GridCell.Tab.0.right" timestamp="1584982268855">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1584895252319" />
-    <state width="1750" height="308" key="GridCell.Tab.0.right/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584951161286" />
+    <state width="1750" height="362" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1584982268855" />
+    <state width="1750" height="231" key="GridCell.Tab.0.right/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584954203730" />
     <state width="1878" height="295" key="GridCell.Tab.0.right/1792.-379.1920.1057/0.23.1792.1097@1792.-379.1920.1057" timestamp="1584808036356" />
-    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1584946336276">
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom" timestamp="1584981067553">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1584893192901" />
+    <state width="1750" height="238" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1584981067553" />
     <state width="1750" height="238" key="GridCell.Tab.1.bottom/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584946336276" />
-    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1584946336275">
+    <state width="1750" height="238" key="GridCell.Tab.1.center" timestamp="1584981067553">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1584893192900" />
+    <state width="1750" height="238" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1584981067553" />
     <state width="1750" height="238" key="GridCell.Tab.1.center/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584946336275" />
-    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1584946336275">
+    <state width="1750" height="238" key="GridCell.Tab.1.left" timestamp="1584981067552">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1584893192900" />
+    <state width="1750" height="238" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1584981067552" />
     <state width="1750" height="238" key="GridCell.Tab.1.left/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584946336275" />
-    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1584946336275">
+    <state width="1750" height="238" key="GridCell.Tab.1.right" timestamp="1584981067553">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="308" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1584893192900" />
+    <state width="1750" height="238" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1584981067553" />
     <state width="1750" height="238" key="GridCell.Tab.1.right/1792.-379.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584946336275" />
     <state x="427" y="210" key="SettingsEditor" timestamp="1584894447793">
       <screen x="0" y="23" width="1792" height="1097" />
@@ -320,11 +324,6 @@
           <url>file://$PROJECT_DIR$/src/com/codingblocks/recursion/SudokuSolver.java</url>
           <line>87</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codingblocks/Demo.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
