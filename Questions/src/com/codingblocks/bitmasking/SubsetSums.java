@@ -38,9 +38,9 @@ public class SubsetSums {
             Arrays.sort(left);
             Arrays.sort(right);
 
-            System.out.println(Arrays.toString(left));
-            System.out.println(Arrays.toString(right));
-            System.out.println();
+//            System.out.println(Arrays.toString(left));
+//            System.out.println(Arrays.toString(right));
+//            System.out.println();
 
             int ans = 0;
 
@@ -48,15 +48,19 @@ public class SubsetSums {
                 int low = a - left[i];
                 int high = b - left[i];
 
-                System.out.println(low + " " + high);
+//                System.out.println(low + " " + high);
                 int l1 = lowerBound(right, low);
                 int l2 = lowerBound(right, high);
 
-                System.out.println(l1 + " " + l2);
+//                System.out.println(l1 + " " + l2);
 
-                
+                if (l2 < right.length) {
+                    if (right[l2] == high) {
+                        l2 += 1;
+                    }
+                }
                 ans += (l2 - l1);
-                System.out.println();
+//                System.out.println();
             }
             System.out.println(ans);
         }
