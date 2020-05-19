@@ -8,7 +8,7 @@ Lecture - 8	: Maze, nKnights, nQueens
 Lecture - 9	: Sieve, Merge Sort, Quick Sort
 Lecture - 10	: Board (count board), Fibonacci, LCS, Maze Path
 Lecture - 11	: Classes (constructors, this, finalize), Singleton, Stack, Queue,
- 		          Notes : Overloading, Overriding, Static, Inheritance, Access control 
+ 		          Notes : Overloading, Overriding, Static, Inheritance, Access control
 Lecture - 12	: Abstract Classes, Inheritance
 Lecture - 13	: Interface, Packages
 Lecture - 14	: Linked List

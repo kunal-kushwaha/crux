@@ -105,42 +105,31 @@ public class Sorting {
 
 
     public static void quickSort(int[] nums, int low, int hi){
-
         if(low >= hi){
             return;
         }
-
         int left = low;
         int right = hi;
-
         int mid = (low + hi) / 2;
         int pivot = nums[mid];
-
         while(left <= right){
-
             while(nums[left] < pivot){
                 left++;
             }
             while(nums[right] > pivot){
                 right--;
             }
-
             if(left <= right){
-
                 // swap
-
                 int temp = nums[left];
                 nums[left] = nums[right];
                 nums[right] = temp;
-
                 left++;
                 right--;
             }
         }
-
         quickSort(nums, low, right);
         quickSort(nums, left, hi);
-
     }
 
 }
