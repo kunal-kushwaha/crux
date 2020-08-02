@@ -112,7 +112,7 @@ by itself & relies upon its subclasses to provide complete implementations.
 # NOTE: Although static methods can be inherited ,there is no point in overriding them in child classes because the
 method in parent class will run always no matter from which object you call it. That is why static interface methods
 cannot be inherited because these method will run from the parent interface and no matter if we were allowed to
-override themm, they will always run the method in parent interface.
+override them, they will always run the method in parent interface.
 That is why static interface method must have a body.
 
 NOTE : Polymorphism does not apply to instance variables.

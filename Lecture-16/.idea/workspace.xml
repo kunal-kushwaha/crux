@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c53a9d9-347b-4dcd-895a-d7fc6ae002e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/META-INF/Lecture-14.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c53a9d9-347b-4dcd-895a-d7fc6ae002e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="1Ui0SJSYr1VhSzoDzFGpFDIaGqY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -135,6 +105,7 @@
       <workItem from="1576565880361" duration="372000" />
       <workItem from="1576570518034" duration="445000" />
       <workItem from="1577023151686" duration="617000" />
+      <workItem from="1589966314800" duration="44000" />
     </task>
     <servers />
   </component>
