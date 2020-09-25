@@ -1,9 +1,0 @@
-String -> HashCode -> Index
-
-NOTE: The Hashcode is not the index in the Array!
-We actually map from the key to the hashcode to the index, i.e. a hashcode maps towards the index.
-This is because say our array may not be of greater size (as Hashcode can be large hence no point in making it index)
-
-Two or more Strings can have the same hashcode, hence they will get added at the same index. This is called COLLISION.
-We can remove collision by different methods.
-One way is chaining i.e. Make an array of Linked lists.

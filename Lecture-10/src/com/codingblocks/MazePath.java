@@ -77,7 +77,7 @@ public class MazePath {
                 if(r == 1 || c == 1){
                     mem[c] = 1;
                 }else{
-                    mem[c] = mem[c-1] + mem[c];
+                    mem[c] += mem[c-1];
                 }
             }
         }

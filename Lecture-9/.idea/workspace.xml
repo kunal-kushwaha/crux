@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="536e202d-2e3b-431e-af74-9fc0240d6a6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Sorting.java" afterDir="false" />
     </list>
@@ -131,6 +132,7 @@
       <workItem from="1571148214444" duration="52000" />
       <workItem from="1577029875349" duration="643000" />
       <workItem from="1587116837959" duration="369000" />
+      <workItem from="1600067450913" duration="415000" />
     </task>
     <servers />
   </component>
@@ -138,9 +140,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577029878661">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="2518" height="417" key="GridCell.Tab.0.bottom" timestamp="1600067866944">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1577029878661" />
+    <state width="2518" height="417" key="GridCell.Tab.0.bottom/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1600067866944" />
+    <state width="2518" height="417" key="GridCell.Tab.0.center" timestamp="1600067866942">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.center/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1600067866942" />
+    <state width="2518" height="417" key="GridCell.Tab.0.left" timestamp="1600067866942">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.left/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1600067866942" />
+    <state width="2518" height="417" key="GridCell.Tab.0.right" timestamp="1600067866943">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="417" key="GridCell.Tab.0.right/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1600067866943" />
   </component>
 </project>

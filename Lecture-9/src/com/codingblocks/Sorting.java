@@ -5,12 +5,17 @@ import java.util.Arrays;
 public class Sorting {
 
     public static void main(String[] args) {
-        int[] nums = {3, 2, 1, 9, 6, 4};
-
+        int[] nums = new int[100000];
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = nums.length - i;
+        }
+        long start = System.currentTimeMillis();
 //        quickSort(nums, 0, nums.length - 1);
+        nums = mergeSort(nums);
+        long end = System.currentTimeMillis();
 
         System.out.println(Arrays.toString(nums));
-
+        System.out.println(end-start);
     }
 
     public static int[] mergeSort(int[] nums){
