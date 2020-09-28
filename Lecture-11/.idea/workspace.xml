@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a74300ec-4ea0-47a5-a233-f2a7f78fba4e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/inheritance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/check/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/check/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/check/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/check/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-12/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,19 +21,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="40" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="1cIrOGPulbv0heGN4zxNthcsxGy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -62,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/com/codingblocks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue">
+  <component name="RunManager" selected="Application.Demo2">
     <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.BoxMain" />
       <module name="Lecture-11" />
@@ -89,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Queue" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.check.Demo2" />
       <module name="Lecture-11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="PATTERN" value="com.codingblocks.check.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.SingletonClient" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Queue" />
       <module name="Lecture-11" />
       <extension name="coverage">
         <pattern>
@@ -130,18 +126,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="Application.SingletonClient" />
       <item itemvalue="Application.BoxMain" />
       <item itemvalue="Application.Stack" />
       <item itemvalue="Application.Queue" />
+      <item itemvalue="Application.Demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Queue" />
         <item itemvalue="Application.Stack" />
         <item itemvalue="Application.BoxMain" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.SingletonClient" />
       </list>
     </recent_temporary>
   </component>
@@ -171,11 +167,30 @@
       <workItem from="1572373249728" duration="254000" />
       <workItem from="1572374608793" duration="184000" />
       <workItem from="1590226915844" duration="398000" />
+      <workItem from="1601270114557" duration="2969000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="611" key="GridCell.Tab.0.bottom" timestamp="1601270392653">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="611" key="GridCell.Tab.0.bottom/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1601270392653" />
+    <state width="2518" height="611" key="GridCell.Tab.0.center" timestamp="1601270392650">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="611" key="GridCell.Tab.0.center/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1601270392650" />
+    <state width="2518" height="611" key="GridCell.Tab.0.left" timestamp="1601270392649">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="611" key="GridCell.Tab.0.left/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1601270392649" />
+    <state width="2518" height="611" key="GridCell.Tab.0.right" timestamp="1601270392651">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="611" key="GridCell.Tab.0.right/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1601270392651" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

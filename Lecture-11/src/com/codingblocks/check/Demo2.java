@@ -4,7 +4,7 @@ import com.codingblocks.Human;
 
 public class Demo2 extends Demo {
 
-    public static void display(){
+    public void display(){
         System.out.println("Overriden");
     }
 

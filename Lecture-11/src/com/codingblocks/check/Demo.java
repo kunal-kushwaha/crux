@@ -8,7 +8,7 @@ public class Demo extends Human{
         System.out.println("Demo constructor");
     }
 
-    public static void display(){
+    public void display(){
         System.out.println("Not overriden");
     }
 
