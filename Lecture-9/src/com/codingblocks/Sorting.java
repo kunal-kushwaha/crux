@@ -40,15 +40,15 @@ public class Sorting {
         int k = 0;
 
         while (i < first.length && j < second.length){
+            // inc index at mix
             if (first[i] < second[j]){
                 mix[k] = first[i]; // move smaller item to mix
                 i++; // inc index of first
-                k++; // inc index at mix
             } else {
                 mix[k] = second[j]; // move smaller item to mix
                 j++; // inc index of second
-                k++; // inc index at mix
             }
+            k++; // inc index at mix
 
         }
 

@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="92a2d714-8db0-4c02-9981-044119500014" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/abstract.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/abstract.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -158,7 +155,7 @@
       <workItem from="1568540150004" duration="269000" />
       <workItem from="1568564715642" duration="9000" />
       <workItem from="1590226900914" duration="315000" />
-      <workItem from="1601270129088" duration="1795000" />
+      <workItem from="1601270129088" duration="2562000" />
     </task>
     <servers />
   </component>

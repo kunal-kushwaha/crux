@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6be68d2e-ad5e-49bd-a54a-56b8e86a1eab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/check/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -159,7 +158,7 @@
       <workItem from="1556111548512" duration="113000" />
       <workItem from="1556119068213" duration="12000" />
       <workItem from="1568564716212" duration="7000" />
-      <workItem from="1601270141215" duration="818000" />
+      <workItem from="1601270141215" duration="2615000" />
     </task>
     <servers />
   </component>
